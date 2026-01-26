@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My experiment</title>
+  <script src="https://unpkg.com/jspsych@8.0.0"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-survey-text@2.0.0"></script>
+  <link href="https://unpkg.com/jspsych@8.0.0/css/jspsych.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body></body>
+<script>
+
+  /* initialize jsPsych */
+  var jsPsych = initJsPsych({
+  on_finish: function() {
+    jsPsych.data.displayData();
+  }
+});
+
+  /* create timeline */
+  var timeline = [];
+
+  /* create stimulus list */
+  // IDEA: each element in the array will be a dictionary so that we can concurrently store information about the correctness of the response
+  // MAIN TO DO: How can we expand this systematically to encompass all stimuli?
+
+  //create an example stimulus
+  // what kind of image characteristics might we want to store? (just a placeholder here)
+  stimulus_item = {
+    image_name: "stimuli/1.jpg",
+    image_characteristic: "XXX"
+  }
+
+  // here's how we can construct a simple description trial
+  // OTHER TO DOs: what else do we need to add to the trial procedure? What other information should we store? How can we turn this into a complete experiment timeline?
+  var trial = {
+        type: jsPsychSurveyText,
+        preamble: "<p>Describe what you see on the screen.<\p>",
+        //check out the plugin to understand how we are using the question parameters below
+        questions: [{prompt: '<img src='+stimulus_item["image_name"]+' style="width:300px;height:300px;">',rows:5, columns:50,name:"image_description", required: true}],
+        data: {image_characteristic: stimulus_item['image_characteristic']},
+        //extracting the text response - this will just make it a little easier when processing the data (because otherwise it is nested)
+        on_finish: function (data) {
+          data.text_response = data.response["image_description"];
+          console.log(data)
+        }
+      }
+
+  timeline.push(trial);
+
+
+  /* start the experiment */
+  jsPsych.run(timeline);
+
+</script>
+
+</html>
