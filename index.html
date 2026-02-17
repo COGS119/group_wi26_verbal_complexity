@@ -27,7 +27,7 @@
       <p>The next page will run a test trial. Once you are ready to start, click any button.</p>
     </div>`;
   const TRIAL_PREAMBLE = "Describe the shape as accurately as you can.";
-  const NUM_FIGURES_PDIFF = 4;
+  const NUM_FIGURES_PDIFF = 7;
 
   // /* create timeline */
   var timeline = [];
@@ -58,9 +58,9 @@
     return jsPsych.randomization.sampleWithoutReplacement(fig_list, count)
   }
 
-  const easy_stimuli = createStimulusDict(1, 20, NUM_FIGURES_PDIFF, "easy");
-  const medium_stimuli = createStimulusDict(71, 90, NUM_FIGURES_PDIFF, "medium");
-  const hard_stimuli = createStimulusDict(141, 160, NUM_FIGURES_PDIFF, "hard");
+  const easy_stimuli = createStimulusDict(1, 25, NUM_FIGURES_PDIFF, "easy");
+  const medium_stimuli = createStimulusDict(71, 95, NUM_FIGURES_PDIFF, "medium");
+  const hard_stimuli = createStimulusDict(136, 160, NUM_FIGURES_PDIFF, "hard");
 
 
   // ---------- COMBINE/SHUFFLE FIGURES ----------
