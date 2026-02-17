@@ -8,6 +8,8 @@
   <script src="https://unpkg.com/@jspsych/plugin-preload@2.0.0"></script>
   <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@2.0.0"></script>
   <link href="https://unpkg.com/jspsych@8.0.0/css/jspsych.css" rel="stylesheet" type="text/css" />
+  <!-- This is for data storage - please be sure to keep this script in all future updates to the code!! -->
+  <script src="https://unpkg.com/@jspsych-contrib/plugin-pipe"></script>
 </head>
 
 <body></body>
@@ -15,12 +17,12 @@
 
   /* initialize jsPsych */
   var jsPsych = initJsPsych({
-    on_finish: function() {
+    on_finish: function () {
       jsPsych.data.displayData();
     }
   });
 
- const INSTRUCTIONS = `
+  const INSTRUCTIONS = `
     <div>
       <p>Welcome to our experiment!</p>
       <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
@@ -32,7 +34,20 @@
   // /* create timeline */
   var timeline = [];
 
-  
+  //PLEASE KEEP FOR ALL FUTURE ITERATIONS
+  //create a unique filename by combining a random string and a millisecond counter (to avoid duplicates)
+  var random_id = jsPsych.randomization.randomID(10);
+  const date = new Date();
+  random_id = "p" + random_id.toString();
+  var file_id = random_id + "_" + date.getTime().toString();
+  const filename = `${file_id}.csv`;
+  //also store the random id for convenience
+  jsPsych.data.addProperties({
+    random_id: random_id,
+  });
+  //PLEASE KEEP FOR ALL FUTURE ITERATIONS
+
+
   // ---------- CREATE WELCOME PAGE ----------
 
   var welcome = {
@@ -58,9 +73,9 @@
     return jsPsych.randomization.sampleWithoutReplacement(fig_list, count)
   }
 
-  const easy_stimuli = createStimulusDict(1, 25, NUM_FIGURES_PDIFF, "easy");
-  const medium_stimuli = createStimulusDict(71, 95, NUM_FIGURES_PDIFF, "medium");
-  const hard_stimuli = createStimulusDict(136, 160, NUM_FIGURES_PDIFF, "hard");
+  const easy_stimuli = createStimulusDict(1,2, NUM_FIGURES_PDIFF, "easy");
+  const medium_stimuli = createStimulusDict(71,72, NUM_FIGURES_PDIFF, "medium");
+  const hard_stimuli = createStimulusDict(136,137, NUM_FIGURES_PDIFF, "hard");
 
 
   // ---------- COMBINE/SHUFFLE FIGURES ----------
@@ -96,12 +111,24 @@
         figure: stimulus.figure,
         difficulty: stimulus.difficulty
       },
-      on_finish: function(data) {
+      on_finish: function (data) {
         data.text_response = data.response["image_description"];
       }
     };
     timeline.push(trial)
   });
+
+  //PLEASE KEEP FOR ALL FUTURE ITERATIONS
+  //this portion of the code ensures that the data gets sent to be stored on OSF
+  const save_data = {
+    type: jsPsychPipe,
+    action: "save",
+    experiment_id: "VXiDzGQw8sUw",
+    filename: filename,
+    data_string: () => jsPsych.data.get().csv()
+  };
+  timeline.push(save_data);
+  //PLEASE KEEP FOR ALL FUTURE ITERATIONS
 
   /* start the experiment */
   jsPsych.run(timeline);
