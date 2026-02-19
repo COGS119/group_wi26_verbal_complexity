@@ -151,60 +151,55 @@
 
   // ---------- CREATE TRIALS ----------
 
-  full_stimuli_list.forEach((stimulus) => {
-    // make trial for each stimulus
     let trial_start_time;
-    const trial = {
-      type: jsPsychSurveyText,
-      preamble: TRIAL_PREAMBLE,
-      questions: [{
-        prompt: `<div style="text-align:center;"><img src="${stimulus.figure}" style="width:300px;height:300px;"></div>`,
-        name: "image_description",
-        required: true,
-        rows: 5
-      }],
-      data: {
-        figure: stimulus.figure,
-        difficulty: stimulus.difficulty
-      },
-      on_load: function () {
-        trial_start_time = performance.now();
-      },
-      on_finish: function (data) {
-        data.text_response = data.response["image_description"];
-        data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
-      }, 
-      const textArea = document.querySelector('textarea');
-    
-    // Create a hidden element to store count, or just use a JS variable
-    let wordCount = 0;
 
-    textArea.addEventListener('input', function() {
-      // Logic to count words:
-      // 1. Trim whitespace from ends
-      // 2. Split by spaces/newlines
-      // 3. Filter out empty strings caused by multiple spaces
-      const text = textArea.value.trim();
-      if (text === "") {
-        wordCount = 0;
-      } else {
-        wordCount = text.split(/\s+/).length;
+  const trial = {
+    type: jsPsychSurveyText,
+    preamble: TRIAL_PREAMBLE,
+    questions: [{
+      prompt: `<div style="text-align:center;"><img src="${stimulus.figure}" style="width:300px;height:300px;"></div>`,
+      name: "image_description",
+      required: true,
+      rows: 5
+    }],
+    data: {
+      figure: stimulus.figure,
+      difficulty: stimulus.difficulty
+    },
+    on_load: function() {
+      // Start timer when trial loads
+      trial_start_time = performance.now();
+
+      // Attach word count tracker
+      const textArea = document.querySelector('textarea');
+      if (textArea) {
+        textArea.addEventListener('input', () => {
+          const text = textArea.value.trim();
+          let wordCount = text === "" ? 0 : text.split(/\s+/).length;
+          // Store temporary word count in the element
+          textArea.dataset.wordCount = wordCount;
+        });
       }
-      
-      // Optional: console.log for debugging
-      // console.log(wordCount);
-    });
-  },
-  on_finish: function(data) {
-    // Retrieve final count from the DOM or closure
-    const text = data.response.essay.trim();
-    const finalWordCount = text === "" ? 0 : text.split(/\s+/).length;
-    
-    // Add the hidden count to the data object
-    data.final_word_count = finalWordCount;
+    },
+    on_finish: function(data) {
+      // Record typing time
+      data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
+
+      // Store typed response
+      data.text_response = data.response["image_description"];
+
+      // Retrieve final word count from textarea dataset
+      const textArea = document.querySelector('textarea');
+      let finalWordCount = 0;
+      if (textArea && textArea.dataset.wordCount) {
+        finalWordCount = parseInt(textArea.dataset.wordCount);
+      }
+      data.final_word_count = finalWordCount;
+    }
   };
-    timeline.push(trial)
-  });
+
+  timeline.push(trial);
+});
 
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
   //this portion of the code ensures that the data gets sent to be stored on OSF
