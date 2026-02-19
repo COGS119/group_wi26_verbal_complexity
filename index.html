@@ -39,6 +39,7 @@
       <p>The goal of our tests is to find how object complexity translates in a mental capacity.</p>
       <p>We want to learn about the relationship between complexity in the real world and that in our minds.</p>
       <p>Click any button to exit the experiment </p>`
+  const TEST_FIGURE = "stimuli/27.jpg"
 
   // /* create timeline */
   var timeline = [];
@@ -58,6 +59,7 @@
   jsPsych.data.addProperties({
     random_id: random_id,
   });
+  
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
 
 
@@ -86,7 +88,7 @@
 
   timeline.push(participant_id_entry);
 
-  //Gets participant major and stores
+  // Gets participant major and stores
   var participant_major = {
     type: jsPsychSurveyText,
     questions: [{ prompt: "Please enter your major:", name: "participant_major" }],
@@ -99,7 +101,7 @@
   }
   timeline.push(participant_major);
 
-  //Get participant gender
+  // Get participant gender
   var participant_gender = {
     type: jsPsychSurveyText,
     questions: [{ prompt: "Please enter your gender:", name: "participant_gender" }],
@@ -111,9 +113,6 @@
     }
   }
   timeline.push(participant_gender);
-
-  // ---------- CREATE TEST TRIAL ----------
-  // todo
 
   // ---------- DEFINE FIGURE CATEGORIES ----------
 
@@ -144,10 +143,43 @@
 
   var preload = {
     type: jsPsychPreload,
-    images: full_stimuli_list.map(stimulus => stimulus.figure)
+    images: [TEST_FIGURE, ...full_stimuli_list.map(stimulus => stimulus.figure)]
   };
   timeline.push(preload)
 
+  // ---------- TEST TRIAL ----------
+
+  let trial_start_time;
+  const trial = {
+    type: jsPsychSurveyText,
+    preamble: "<h3>Test Trial</h3>" + TRIAL_PREAMBLE,
+    questions: [{
+      prompt: `<div style="text-align:center;"><img src="${TEST_FIGURE}" style="width:300px;height:300px;"></div>`,
+      name: "image_description",
+      required: true,
+      rows: 5
+    }],
+    data: {
+      figure: TEST_FIGURE,
+      difficulty: "test"
+    },
+    on_load: function () {
+      trial_start_time = performance.now();
+    },
+    on_finish: function (data) {
+      data.text_response = data.response["image_description"];
+      data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
+    }
+  };
+  timeline.push(trial);
+
+  // ---------- START ACTUAL TRIAL SCREEN ----------
+
+  var start_actual_trial = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: "<p>You have completed the test trial. Click any button to begin the actual experiment.</p>"
+  }
+  timeline.push(start_actual_trial);
 
   // ---------- CREATE TRIALS ----------
 
@@ -173,39 +205,11 @@
       on_finish: function (data) {
         data.text_response = data.response["image_description"];
         data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
-      }, 
-      const textArea = document.querySelector('textarea');
-    
-    // Create a hidden element to store count, or just use a JS variable
-    let wordCount = 0;
-
-    textArea.addEventListener('input', function() {
-      // Logic to count words:
-      // 1. Trim whitespace from ends
-      // 2. Split by spaces/newlines
-      // 3. Filter out empty strings caused by multiple spaces
-      const text = textArea.value.trim();
-      if (text === "") {
-        wordCount = 0;
-      } else {
-        wordCount = text.split(/\s+/).length;
       }
-      
-      // Optional: console.log for debugging
-      // console.log(wordCount);
-    });
-  },
-  on_finish: function(data) {
-    // Retrieve final count from the DOM or closure
-    const text = data.response.essay.trim();
-    const finalWordCount = text === "" ? 0 : text.split(/\s+/).length;
-    
-    // Add the hidden count to the data object
-    data.final_word_count = finalWordCount;
-  };
-    timeline.push(trial)
+    };
+    timeline.push(trial);
   });
-
+  
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
   //this portion of the code ensures that the data gets sent to be stored on OSF
   const save_data = {
