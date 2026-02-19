@@ -34,6 +34,11 @@
     </div>`;
   const TRIAL_PREAMBLE = "Describe the shape as accurately as you can.";
   const NUM_FIGURES_PDIFF = 7;
+  const DEBRIEF = 
+      `<p>Thank you for taking the time to run our experiment!</p>
+      <p>The goal of our tests is to find how object complexity translates in a mental capacity.</p>
+      <p>We want to learn about the relationship between complexity in the real world and that in our minds.</p>
+      <p>Click any button to exit the experiment </p>`
 
   // /* create timeline */
   var timeline = [];
@@ -185,6 +190,12 @@
   timeline.push(save_data);
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
 
+  // ---------- CREATED DEBRIEF ----------
+  var debrief = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: DEBRIEF
+  }
+  timeline.push(debrief);
   /* start the experiment */
   jsPsych.run(timeline);
 
