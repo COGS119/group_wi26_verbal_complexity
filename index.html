@@ -76,7 +76,7 @@
   var participant_id_entry = {
     type: jsPsychSurveyText,
     questions: [{
-      prompt: "Please enter your participant ID (e.g. p1)", name: "participant_id"
+      prompt: "Please enter your participant ID (e.g. p1)", name: "participant_id, required: true"
     }],
     on_finish: function (data) {
       console.log(data.response)
@@ -91,7 +91,7 @@
   // Gets participant major and stores
   var participant_major = {
     type: jsPsychSurveyText,
-    questions: [{ prompt: "Please enter your major:", name: "participant_major" }],
+    questions: [{ prompt: "Please enter your major:", name: "participant_major", required: true}],
     on_finish: function (data) {
       console.log(data.response)
       jsPsych.data.addProperties({
@@ -104,7 +104,7 @@
   // Get participant gender
   var participant_gender = {
     type: jsPsychSurveyText,
-    questions: [{ prompt: "Please enter your gender:", name: "participant_gender" }],
+    questions: [{ prompt: "Please enter your gender:", name: "participant_gender", required: true}],
     on_finish: function (data) {
       console.log(data.response)
       jsPsych.data.addProperties({
