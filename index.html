@@ -81,6 +81,32 @@
 
   timeline.push(participant_id_entry);
 
+  //Gets participant major and stores
+  var participant_major = {
+    type: jsPsychSurveyText,
+    questions: [{ prompt: "Please enter your major:", name: "participant_major" }],
+    on_finish: function (data) {
+      console.log(data.response)
+      jsPsych.data.addProperties({
+        participant: data.response.participant_id
+      });
+    }
+  }
+  timeline.push(participant_major);
+
+  //Get participant gender
+  var participant_gender = {
+    type: jsPsychSurveyText,
+    questions: [{ prompt: "Please enter your gender:", name: "participant_gender" }],
+    on_finish: function (data) {
+      console.log(data.response)
+      jsPsych.data.addProperties({
+        participant: data.response.participant_id
+      });
+    }
+  }
+  timeline.push(participant_gender);
+
   // ---------- CREATE TEST TRIAL ----------
   // todo
 
