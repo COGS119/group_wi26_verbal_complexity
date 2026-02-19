@@ -199,17 +199,40 @@
         figure: stimulus.figure,
         difficulty: stimulus.difficulty
       },
-      on_load: function () {
+      on_load: function() {
+        // Start timer when trial loads
         trial_start_time = performance.now();
+
+        // Attach word count tracker
+        const textArea = document.querySelector('textarea');
+        if (textArea) {
+          textArea.addEventListener('input', () => {
+            const text = textArea.value.trim();
+            let wordCount = text === "" ? 0 : text.split(/\s+/).length;
+            // Store temporary word count in the element
+            textArea.dataset.wordCount = wordCount;
+          });
+        }
       },
-      on_finish: function (data) {
-        data.text_response = data.response["image_description"];
+      on_finish: function(data) {
+        // Record typing time
         data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
+
+        // Store typed response
+        data.text_response = data.response["image_description"];
+
+        // Retrieve final word count from textarea dataset
+        const textArea = document.querySelector('textarea');
+        let finalWordCount = 0;
+        if (textArea && textArea.dataset.wordCount) {
+          finalWordCount = parseInt(textArea.dataset.wordCount);
+        }
+        data.final_word_count = finalWordCount;
       }
     };
+
     timeline.push(trial);
   });
-  
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
   //this portion of the code ensures that the data gets sent to be stored on OSF
   const save_data = {
