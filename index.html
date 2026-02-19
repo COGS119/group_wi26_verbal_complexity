@@ -148,6 +148,7 @@
 
   full_stimuli_list.forEach((stimulus) => {
     // make trial for each stimulus
+    let trial_start_time;
     const trial = {
       type: jsPsychSurveyText,
       preamble: TRIAL_PREAMBLE,
@@ -161,8 +162,12 @@
         figure: stimulus.figure,
         difficulty: stimulus.difficulty
       },
+      on_load: function () {
+        trial_start_time = performance.now();
+      },
       on_finish: function (data) {
         data.text_response = data.response["image_description"];
+        data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
       }
     };
     timeline.push(trial)
