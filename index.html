@@ -59,6 +59,22 @@
   }
   timeline.push(welcome);
 
+  // ---------- PARTICIPANT ID ----------
+
+  var participant_id_entry = {
+    type: jsPsychSurveyText,
+    questions: [{
+      prompt: "Please enter your participant ID (e.g. p1)", name: "participant_id"
+    }],
+    on_finish: function (data) {
+      console.log(data.response)
+      jsPsych.data.addProperties({
+        participant: data.response.participant_id
+      });
+    }
+  };
+
+  timeline.push(participant_id_entry);
 
   // ---------- CREATE TEST TRIAL ----------
   // todo
