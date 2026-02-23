@@ -33,13 +33,15 @@
       <p>Once you are ready to start, click any button.</p>
     </div>`;
   const TRIAL_PREAMBLE = "Describe the shape as accurately as you can.";
-  const NUM_FIGURES_PDIFF = 7;
   const DEBRIEF = 
       `<p>Thank you for taking the time to run our experiment!</p>
       <p>The goal of our tests is to find how object complexity translates in a mental capacity.</p>
       <p>We want to learn about the relationship between complexity in the real world and that in our minds.</p>
       <p>Click any button to exit the experiment </p>`
   const TEST_FIGURE = "stimuli/27.jpg"
+  const TOTAL_FIGURES = 160
+  const TRIALS_P_PARTICIPANT = 20
+  const NUM_TRIAL_GROUPS = TOTAL_FIGURES / TRIALS_P_PARTICIPANT
 
   // /* create timeline */
   var timeline = [];
@@ -116,34 +118,43 @@
 
   // ---------- DEFINE FIGURE CATEGORIES ----------
 
-  function createStimulusDict(start, end, count, difficulty) {
-    let fig_list = [];
-    for (let i = start; i <= end; i++) {
-      fig_list.push({
-        figure: `stimuli/${i}.jpg`,
-        difficulty: difficulty
-      });
-    }
-    return jsPsych.randomization.sampleWithoutReplacement(fig_list, count)
+  function range(start, end, step = 1) {
+    const length = Math.floor((end - start) / step) + 1;
+    return Array.from({ length }, (_, i) => start + i * step);
   }
 
-  const easy_stimuli = createStimulusDict(1, 25, NUM_FIGURES_PDIFF, "easy");
-  const medium_stimuli = createStimulusDict(71, 95, NUM_FIGURES_PDIFF, "medium");
-  const hard_stimuli = createStimulusDict(136, 160, NUM_FIGURES_PDIFF, "hard");
+  function getDifficulty(imageNumber) {
+    if (imageNumber <= 53) return "easy";
+    if (imageNumber <= 106) return "medium";
+    return "hard";
+  }
 
+  const stimulus_groups = [
+    range(1, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(2, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(3, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(4, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(5, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(6, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(7, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+    range(8, TOTAL_FIGURES, NUM_TRIAL_GROUPS),
+  ];
 
-  // ---------- COMBINE/SHUFFLE FIGURES ----------
+  const selected_group = jsPsych.randomization.sampleWithoutReplacement(stimulus_groups, 1)[0];
+  
+  const current_stimulus_list = selected_group.map(n => ({
+    figure: `stimuli/${n}.jpg`,
+    difficulty: getDifficulty(n)
+  }));
 
-  const full_stimuli_list = jsPsych.randomization.shuffle([
-    ...easy_stimuli, ...medium_stimuli, ...hard_stimuli
-  ]);
+  const shuffled_stimuli = jsPsych.randomization.shuffle(current_stimulus_list);
 
 
   // ---------- PRELOAD IMAGES ----------
 
   var preload = {
     type: jsPsychPreload,
-    images: [TEST_FIGURE, ...full_stimuli_list.map(stimulus => stimulus.figure)]
+    images: [TEST_FIGURE, ...shuffled_stimuli.map(stimulus => stimulus.figure)]
   };
   timeline.push(preload)
 
@@ -183,7 +194,7 @@
 
   // ---------- CREATE TRIALS ----------
 
-  full_stimuli_list.forEach((stimulus) => {
+  shuffled_stimuli.forEach((stimulus) => {
     // make trial for each stimulus
     let trial_start_time;
     const trial = {
@@ -199,35 +210,9 @@
         figure: stimulus.figure,
         difficulty: stimulus.difficulty
       },
-      on_load: function() {
-        // Start timer when trial loads
-        trial_start_time = performance.now();
-
-        // Attach word count tracker
-        const textArea = document.querySelector('textarea');
-        if (textArea) {
-          textArea.addEventListener('input', () => {
-            const text = textArea.value.trim();
-            let wordCount = text === "" ? 0 : text.split(/\s+/).length;
-            // Store temporary word count in the element
-            textArea.dataset.wordCount = wordCount;
-          });
-        }
-      },
       on_finish: function(data) {
-        // Record typing time
         data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
-
-        // Store typed response
         data.text_response = data.response["image_description"];
-
-        // Retrieve final word count from textarea dataset
-        const textArea = document.querySelector('textarea');
-        let finalWordCount = 0;
-        if (textArea && textArea.dataset.wordCount) {
-          finalWordCount = parseInt(textArea.dataset.wordCount);
-        }
-        data.final_word_count = finalWordCount;
       }
     };
 
