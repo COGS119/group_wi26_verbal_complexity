@@ -28,7 +28,7 @@
       <p>Welcome to our experiment!</p>
       <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
       <p></p>
-      <p>The next page will ask for participant ID and some demographic information, then run a test trial.</p>
+      <p>The next page will ask for participant ID and some demographic information.</p>
       <p></p>
       <p>Once you are ready to start, click any button.</p>
     </div>`;
@@ -157,40 +157,6 @@
   };
   timeline.push(preload)
 
-  // ---------- TEST TRIAL ----------
-
-  let trial_start_time;
-  const trial = {
-    type: jsPsychSurveyText,
-    preamble: "<h3>Test Trial</h3>" + TRIAL_PREAMBLE,
-    questions: [{
-      prompt: `<div style="text-align:center;"><img src="${TEST_FIGURE}" style="width:300px;height:300px;"></div>`,
-      name: "image_description",
-      required: true,
-      rows: 5
-    }],
-    data: {
-      figure: TEST_FIGURE,
-      difficulty: "test"
-    },
-    on_load: function () {
-      trial_start_time = performance.now();
-    },
-    on_finish: function (data) {
-      data.text_response = data.response["image_description"];
-      data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
-    }
-  };
-  timeline.push(trial);
-
-  // ---------- START ACTUAL TRIAL SCREEN ----------
-
-  var start_actual_trial = {
-    type: jsPsychHtmlKeyboardResponse,
-    stimulus: "<p>You have completed the test trial. Click any button to begin the actual experiment.</p>"
-  }
-  timeline.push(start_actual_trial);
-
   // ---------- CREATE TRIALS ----------
 
   shuffled_stimuli.forEach((stimulus) => {
@@ -217,6 +183,8 @@
 
     timeline.push(trial);
   });
+
+
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
   //this portion of the code ensures that the data gets sent to be stored on OSF
   const save_data = {
@@ -228,6 +196,7 @@
   };
   timeline.push(save_data);
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
+
 
   // ---------- CREATED DEBRIEF ----------
   var debrief = {
