@@ -17,18 +17,17 @@
 <script>
 
   /* initialize jsPsych */
-  var jsPsych = initJsPsych({
-    on_finish: function () {
-      jsPsych.data.displayData();
-    }
-  });
+  var jsPsych = initJsPsych();
 
   const INSTRUCTIONS = `
     <div>
       <p>Welcome to our experiment!</p>
       <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
       <p></p>
-      <p>The next page will ask for participant ID and some demographic information.</p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
       <p></p>
       <p>Once you are ready to start, click any button.</p>
     </div>`;
@@ -78,7 +77,7 @@
   var participant_id_entry = {
     type: jsPsychSurveyText,
     questions: [{
-      prompt: "Please enter your participant ID (e.g. p1)", name: "participant_id", required: true}],
+      prompt: "Please enter your participant ID.", name: "participant_id", required: true}],
     on_finish: function (data) {
       console.log(data.response)
       jsPsych.data.addProperties({
@@ -88,32 +87,6 @@
   };
 
   timeline.push(participant_id_entry);
-
-  // Gets participant major and stores
-  var participant_major = {
-    type: jsPsychSurveyText,
-    questions: [{ prompt: "Please enter your major:", name: "participant_major", required: true}],
-    on_finish: function (data) {
-      console.log(data.response)
-      jsPsych.data.addProperties({
-        participant: data.response.participant_id
-      });
-    }
-  }
-  timeline.push(participant_major);
-
-  // Get participant gender
-  var participant_gender = {
-    type: jsPsychSurveyText,
-    questions: [{ prompt: "Please enter your gender:", name: "participant_gender", required: true}],
-    on_finish: function (data) {
-      console.log(data.response)
-      jsPsych.data.addProperties({
-        participant: data.response.participant_id
-      });
-    }
-  }
-  timeline.push(participant_gender);
 
   // ---------- DEFINE FIGURE CATEGORIES ----------
 
@@ -183,6 +156,34 @@
 
     timeline.push(trial);
   });
+
+  // ---------- GET DEMOGRAPHIC INFORMATION ----------
+
+  // Gets participant major and stores
+  var participant_major = {
+    type: jsPsychSurveyText,
+    questions: [{ prompt: "Please enter your major:", name: "participant_major", required: true}],
+    on_finish: function (data) {
+      console.log(data.response)
+      jsPsych.data.addProperties({
+        participant: data.response.participant_id
+      });
+    }
+  }
+  timeline.push(participant_major);
+
+  // Get participant gender
+  var participant_gender = {
+    type: jsPsychSurveyText,
+    questions: [{ prompt: "Please enter your gender:", name: "participant_gender", required: true}],
+    on_finish: function (data) {
+      console.log(data.response)
+      jsPsych.data.addProperties({
+        participant: data.response.participant_id
+      });
+    }
+  }
+  timeline.push(participant_gender);
 
 
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
