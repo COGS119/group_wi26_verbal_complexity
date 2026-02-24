@@ -61,7 +61,7 @@
   jsPsych.data.addProperties({
     random_id: random_id,
   });
-  
+
   //PLEASE KEEP FOR ALL FUTURE ITERATIONS
 
 
@@ -152,6 +152,9 @@
       on_finish: function(data) {
         data.response_time_seconds = (performance.now() - trial_start_time) / 1000;
         data.text_response = data.response["image_description"];
+        const words = data.text_response.trim().split(/\s+/);
+        const wordCount = words.length;
+        data.word_count = wordCount;
       }
     };
 
