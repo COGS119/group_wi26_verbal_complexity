@@ -17,8 +17,13 @@
 <script>
 
   /* initialize jsPsych */
-  var jsPsych = initJsPsych();
-
+   var jsPsych = initJsPsych(
+   {
+     on_finish: function () {
+       jsPsych.data.displayData();
+     }
+   }
+ );
   const INSTRUCTIONS = `
     <div>
       <p>Welcome to our experiment!</p>
