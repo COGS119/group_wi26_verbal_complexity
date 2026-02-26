@@ -197,7 +197,7 @@
   on_finish: function (data) {
     console.log(data.response);
     jsPsych.data.addProperties({
-      participant_gender: data.response.participant_gender
+      participant_gender: data.response.participant_id
     });
   }
 };
