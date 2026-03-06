@@ -1,0 +1,39 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1000","fullscreen","0","null","2004","p8645ntz1nz","","","","","","","","","","","","","","",""
+"","3659","html-keyboard-response","1","2.0.0","5665","p8645ntz1nz","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>","Enter","","","","","","","","","","",""
+"","3150","survey-text","2","2.0.0","8819","p8645ntz1nz","","","","{""participant_id"":""goat""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","9279","p8645ntz1nz","","","","","false","[]","[]","[]","","","","","","",""
+"","4401","survey-text","4","2.0.0","13686","p8645ntz1nz","","","","{""image_description"":""picasso""}","","","","","stimuli/146.jpg","hard","NaN","picasso","1","",""
+"","10196","survey-text","5","2.0.0","23885","p8645ntz1nz","","","","{""image_description"":""angular, boxy, spikey""}","","","","","stimuli/130.jpg","hard","NaN","angular, boxy, spikey","3","",""
+"","7930","survey-text","6","2.0.0","31818","p8645ntz1nz","","","","{""image_description"":""spikey, sharp""}","","","","","stimuli/90.jpg","medium","NaN","spikey, sharp","2","",""
+"","10832","survey-text","7","2.0.0","42653","p8645ntz1nz","","","","{""image_description"":""almost trapezoid""}","","","","","stimuli/18.jpg","easy","NaN","almost trapezoid","2","",""
+"","11263","survey-text","8","2.0.0","53918","p8645ntz1nz","","","","{""image_description"":""scary and spikey""}","","","","","stimuli/122.jpg","hard","NaN","scary and spikey","3","",""
+"","2799","survey-text","9","2.0.0","56720","p8645ntz1nz","","","","{""image_description"":""triangle""}","","","","","stimuli/2.jpg","easy","NaN","triangle","1","",""
+"","11113","survey-text","10","2.0.0","67836","p8645ntz1nz","","","","{""image_description"":""somethings wrong""}","","","","","stimuli/26.jpg","easy","NaN","somethings wrong","2","",""
+"","9514","survey-text","11","2.0.0","77352","p8645ntz1nz","","","","{""image_description"":""kinda looks like a spikey bird""}","","","","","stimuli/66.jpg","medium","NaN","kinda looks like a spikey bird","6","",""
+"","61497","survey-text","12","2.0.0","138854","p8645ntz1nz","","","","{""image_description"":""looks like it was a shape and then it got messed up in photoshop""}","","","","","stimuli/42.jpg","easy","NaN","looks like it was a shape and then it got messed up in photoshop","14","",""
+"","10566","survey-text","13","2.0.0","149422","p8645ntz1nz","","","","{""image_description"":""bird flying into the ground but spikey""}","","","","","stimuli/114.jpg","hard","NaN","bird flying into the ground but spikey","7","",""
+"","10429","survey-text","14","2.0.0","159854","p8645ntz1nz","","","","{""image_description"":""looks like a spikey bullet""}","","","","","stimuli/98.jpg","medium","NaN","looks like a spikey bullet","5","",""
+"","5316","survey-text","15","2.0.0","165172","p8645ntz1nz","","","","{""image_description"":""flag but off""}","","","","","stimuli/50.jpg","easy","NaN","flag but off","3","",""
+"","7631","survey-text","16","2.0.0","172806","p8645ntz1nz","","","","{""image_description"":""looks like it could be a country""}","","","","","stimuli/154.jpg","hard","NaN","looks like it could be a country","7","",""
+"","9713","survey-text","17","2.0.0","182522","p8645ntz1nz","","","","{""image_description"":""looks like the thing on the soviet flag""}","","","","","stimuli/106.jpg","medium","NaN","looks like the thing on the soviet flag","8","",""
+"","6365","survey-text","18","2.0.0","188889","p8645ntz1nz","","","","{""image_description"":""another country\n""}","","","","","stimuli/58.jpg","medium","NaN","another country
+","2","",""
+"","7997","survey-text","19","2.0.0","196888","p8645ntz1nz","","","","{""image_description"":""quadrilateral ""}","","","","","stimuli/10.jpg","easy","NaN","quadrilateral ","1","",""
+"","4983","survey-text","20","2.0.0","201873","p8645ntz1nz","","","","{""image_description"":""country""}","","","","","stimuli/82.jpg","medium","NaN","country","1","",""
+"","7131","survey-text","21","2.0.0","209007","p8645ntz1nz","","","","{""image_description"":""jagged""}","","","","","stimuli/138.jpg","hard","NaN","jagged","1","",""
+"","4431","survey-text","22","2.0.0","213439","p8645ntz1nz","","","","{""image_description"":""spikey""}","","","","","stimuli/74.jpg","medium","NaN","spikey","1","",""
+"","10215","survey-text","23","2.0.0","223656","p8645ntz1nz","","","","{""image_description"":""like if a child tried to draw a mountain""}","","","","","stimuli/34.jpg","easy","NaN","like if a child tried to draw a mountain","9","",""
+"","5331","survey-text","24","2.0.0","228989","p8645ntz1nz","","","","{""participant_major"":""cognitive science""}","","","","","","","","","","",""
+"","2364","survey-multi-choice","25","2.2.0","231356","p8645ntz1nz","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

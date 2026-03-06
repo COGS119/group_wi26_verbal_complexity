@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","451309","fullscreen","0","null","452334","pn78pbqco57","","","","","","","","","","","","","","",""
+"","86267","html-keyboard-response","1","2.0.0","538603","pn78pbqco57","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","4791","survey-text","2","2.0.0","543400","pn78pbqco57","","","","{""participant_id"":""seal""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","545017","pn78pbqco57","","","","","false","[]","[]","[]","","","","","","",""
+"","10386","survey-text","4","2.0.0","555414","pn78pbqco57","","","","{""image_description"":""triangle""}","","","","","stimuli/74.jpg","medium","NaN","triangle","1","",""
+"","4083","survey-text","5","2.0.0","559499","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/58.jpg","medium","NaN","rectangle","1","",""
+"","5778","survey-text","6","2.0.0","565281","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/82.jpg","medium","NaN","rectangle","1","",""
+"","5331","survey-text","7","2.0.0","570614","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/90.jpg","medium","NaN","square","1","",""
+"","4265","survey-text","8","2.0.0","574882","pn78pbqco57","","","","{""image_description"":""triangle""}","","","","","stimuli/98.jpg","medium","NaN","triangle","1","",""
+"","4614","survey-text","9","2.0.0","579500","pn78pbqco57","","","","{""image_description"":""triangle""}","","","","","stimuli/106.jpg","medium","NaN","triangle","1","",""
+"","3498","survey-text","10","2.0.0","583000","pn78pbqco57","","","","{""image_description"":""triangle""}","","","","","stimuli/26.jpg","easy","NaN","triangle","1","",""
+"","5781","survey-text","11","2.0.0","588783","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/114.jpg","hard","NaN","rectangle","1","",""
+"","7077","survey-text","12","2.0.0","595863","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/42.jpg","easy","NaN","rectangle","1","",""
+"","8384","survey-text","13","2.0.0","604249","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/50.jpg","easy","NaN","rectangle","1","",""
+"","3631","survey-text","14","2.0.0","607883","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/10.jpg","easy","NaN","square","1","",""
+"","4130","survey-text","15","2.0.0","612015","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/146.jpg","hard","NaN","square","1","",""
+"","4982","survey-text","16","2.0.0","617000","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/34.jpg","easy","NaN","square","1","",""
+"","3047","survey-text","17","2.0.0","620050","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/130.jpg","hard","NaN","square","1","",""
+"","3595","survey-text","18","2.0.0","623648","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/138.jpg","hard","NaN","square","1","",""
+"","9646","survey-text","19","2.0.0","633297","pn78pbqco57","","","","{""image_description"":""square""}","","","","","stimuli/18.jpg","easy","NaN","square","1","",""
+"","4081","survey-text","20","2.0.0","637381","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/66.jpg","medium","NaN","rectangle","1","",""
+"","3517","survey-text","21","2.0.0","640901","pn78pbqco57","","","","{""image_description"":""triangle""}","","","","","stimuli/2.jpg","easy","NaN","triangle","1","",""
+"","11979","survey-text","22","2.0.0","652883","pn78pbqco57","","","","{""image_description"":""rectangle""}","","","","","stimuli/154.jpg","hard","NaN","rectangle","1","",""
+"","6064","survey-text","23","2.0.0","658949","pn78pbqco57","","","","{""image_description"":""triangle""}","","","","","stimuli/122.jpg","hard","NaN","triangle","1","",""
+"","5149","survey-text","24","2.0.0","664101","pn78pbqco57","","","","{""participant_major"":""cognitive science""}","","","","","","","","","","",""
+"","2062","survey-multi-choice","25","2.2.0","666165","pn78pbqco57","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","2435","fullscreen","0","null","3441","ppq2r76pggh","","","","","","","","","","","","","","",""
+"","2771","html-keyboard-response","1","2.0.0","6215","ppq2r76pggh","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2699","survey-text","2","2.0.0","8929","ppq2r76pggh","","","","{""participant_id"":""gazelle""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","9238","ppq2r76pggh","","","","","false","[]","[]","[]","","","","","","",""
+"","116503","survey-text","4","2.0.0","125743","ppq2r76pggh","","","","{""image_description"":""it looks like a person fell on their knee with a hand on sky while other hand touch the walk to against falling down and drop something out ""}","","","","","stimuli/145.jpg","hard","NaN","it looks like a person fell on their knee with a hand on sky while other hand touch the walk to against falling down and drop something out ","28","",""
+"","71452","survey-text","5","2.0.0","197197","ppq2r76pggh","","","","{""image_description"":""it looks like a swam with funny hair swimming or sitting down""}","","","","","stimuli/65.jpg","medium","NaN","it looks like a swam with funny hair swimming or sitting down","12","",""
+"","29599","survey-text","6","2.0.0","226796","ppq2r76pggh","","","","{""image_description"":""it looks like a slice of pizza that being cut unevenly ""}","","","","","stimuli/17.jpg","easy","NaN","it looks like a slice of pizza that being cut unevenly ","11","",""
+"","44342","survey-text","7","2.0.0","271138","ppq2r76pggh","","","","{""image_description"":""it looks like a regular rectangle ""}","","","","","stimuli/1.jpg","easy","NaN","it looks like a regular rectangle ","6","",""
+"","91454","survey-text","8","2.0.0","362593","ppq2r76pggh","","","","{""image_description"":""it looks like a shot cartoon or game character holding a big shield and very big club pointing down the ground""}","","","","","stimuli/121.jpg","hard","NaN","it looks like a shot cartoon or game character holding a big shield and very big club pointing down the ground","21","",""
+"","66124","survey-text","9","2.0.0","428718","ppq2r76pggh","","","","{""image_description"":""it looks like a bird with long tail standing on a branch with the head pointing down""}","","","","","stimuli/49.jpg","easy","NaN","it looks like a bird with long tail standing on a branch with the head pointing down","17","",""
+"","37600","survey-text","10","2.0.0","466318","ppq2r76pggh","","","","{""image_description"":""the shape looks like a dragon with a short, big wing ""}","","","","","stimuli/97.jpg","medium","NaN","the shape looks like a dragon with a short, big wing ","11","",""
+"","49288","survey-text","11","2.0.0","515607","ppq2r76pggh","","","","{""image_description"":""it looks like an anvil broken into half that top half falling down""}","","","","","stimuli/57.jpg","medium","NaN","it looks like an anvil broken into half that top half falling down","13","",""
+"","77575","survey-text","12","2.0.0","593183","ppq2r76pggh","","","","{""image_description"":""it looks like portrait of old man with big back""}","","","","","stimuli/153.jpg","hard","NaN","it looks like portrait of old man with big back","10","",""
+"","18005","survey-text","13","2.0.0","611189","ppq2r76pggh","","","","{""image_description"":""it looks like a dialog box in comic""}","","","","","stimuli/33.jpg","easy","NaN","it looks like a dialog box in comic","8","",""
+"","502660","survey-text","14","2.0.0","7881640","ppq2r76pggh","","","","{""image_description"":""it looks like two arrows pointing opposite ways that overlap each other ""}","","","","","stimuli/89.jpg","medium","NaN","it looks like two arrows pointing opposite ways that overlap each other ","12","",""
+"","206051","survey-text","15","2.0.0","8087690","ppq2r76pggh","","","","{""image_description"":""it looks like a turtle with its head pointing out of its shell ""}","","","","","stimuli/113.jpg","hard","NaN","it looks like a turtle with its head pointing out of its shell ","13","",""
+"","170802","survey-text","16","2.0.0","8258492","ppq2r76pggh","","","","{""image_description"":""it looks like a little dinosaur sitting on the ground with its feet pointing up and it has a big wing on the back""}","","","","","stimuli/105.jpg","medium","NaN","it looks like a little dinosaur sitting on the ground with its feet pointing up and it has a big wing on the back","24","",""
+"","86598","survey-text","17","2.0.0","8345090","ppq2r76pggh","","","","{""image_description"":""it looks like a butcher knife stick on a pile of meat ""}","","","","","stimuli/73.jpg","medium","NaN","it looks like a butcher knife stick on a pile of meat ","12","",""
+"","19200","survey-text","18","2.0.0","8364291","ppq2r76pggh","","","","{""image_description"":""it looks like a half of a house roof""}","","","","","stimuli/9.jpg","easy","NaN","it looks like a half of a house roof","9","",""
+"","252679","survey-text","19","2.0.0","8616968","ppq2r76pggh","","","","{""image_description"":""it looks like a shark fin above the sea surface""}","","","","","stimuli/25.jpg","easy","NaN","it looks like a shark fin above the sea surface","10","",""
+"","44088","survey-text","20","2.0.0","8661056","ppq2r76pggh","","","","{""image_description"":""it looks like a bird flying with a piece of leaf in its mouth""}","","","","","stimuli/129.jpg","hard","NaN","it looks like a bird flying with a piece of leaf in its mouth","14","",""
+"","322998","survey-text","21","2.0.0","8984138","ppq2r76pggh","","","","{""image_description"":""it looks like a high heel witnout the heel ""}","","","","","stimuli/41.jpg","easy","NaN","it looks like a high heel witnout the heel ","9","",""
+"","185753","survey-text","22","2.0.0","9169894","ppq2r76pggh","","","","{""image_description"":""I looks like a jumping penguin with one leg up""}","","","","","stimuli/81.jpg","medium","NaN","I looks like a jumping penguin with one leg up","10","",""
+"","132792","survey-text","23","2.0.0","9302688","ppq2r76pggh","","","","{""image_description"":""it looks like a flower bouquet in 45 degree rotation with a star sticked on the top of it""}","","","","","stimuli/137.jpg","hard","NaN","it looks like a flower bouquet in 45 degree rotation with a star sticked on the top of it","19","",""
+"","6624","survey-text","24","2.0.0","9309318","ppq2r76pggh","","","","{""participant_major"":""business psychology""}","","","","","","","","","","",""
+"","2675","survey-multi-choice","25","2.2.0","9311995","ppq2r76pggh","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

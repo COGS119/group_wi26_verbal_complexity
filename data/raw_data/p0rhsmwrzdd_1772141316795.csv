@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","32812","fullscreen","0","null","33815","p0rhsmwrzdd","","","","","","","","","","","","","","",""
+"","1046","html-keyboard-response","1","2.0.0","34863","p0rhsmwrzdd","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>","m","","","","","","","","","","",""
+"","1980","survey-text","2","2.0.0","36851","p0rhsmwrzdd","","","","{""participant_id"":""wombat""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","37045","p0rhsmwrzdd","","","","","false","[]","[]","[]","","","","","","",""
+"","42978","survey-text","4","2.0.0","80031","p0rhsmwrzdd","","","","{""image_description"":""imagine like a really messed up crab with one arm pincer at the top left and two really wide pointy triangle legs""}","","","","","stimuli/113.jpg","hard","NaN","imagine like a really messed up crab with one arm pincer at the top left and two really wide pointy triangle legs","22","",""
+"","41900","survey-text","5","2.0.0","121931","p0rhsmwrzdd","","","","{""image_description"":""A dragon/ dog mouth with two pointy ears and a big ole smile ""}","","","","","stimuli/145.jpg","hard","NaN","A dragon/ dog mouth with two pointy ears and a big ole smile ","13","",""
+"","12133","survey-text","6","2.0.0","134064","p0rhsmwrzdd","","","","{""image_description"":""A flowy dress with one shoulder-strap""}","","","","","stimuli/73.jpg","medium","NaN","A flowy dress with one shoulder-strap","6","",""
+"","33419","survey-text","7","2.0.0","167483","p0rhsmwrzdd","","","","{""image_description"":""A quadrilateral with two more quadrilaterals cut out of the bottom""}","","","","","stimuli/49.jpg","easy","NaN","A quadrilateral with two more quadrilaterals cut out of the bottom","11","",""
+"","95900","survey-text","8","2.0.0","263382","p0rhsmwrzdd","","","","{""image_description"":""a small puppy with a big head""}","","","","","stimuli/57.jpg","medium","NaN","a small puppy with a big head","7","",""
+"","16466","survey-text","9","2.0.0","279849","p0rhsmwrzdd","","","","{""image_description"":""picasso's take on ferb from Phineas and ferb""}","","","","","stimuli/105.jpg","medium","NaN","picasso's take on ferb from Phineas and ferb","8","",""
+"","18849","survey-text","10","2.0.0","298699","p0rhsmwrzdd","","","","{""image_description"":""a right triangle, probably scalene""}","","","","","stimuli/1.jpg","easy","NaN","a right triangle, probably scalene","5","",""
+"","71483","survey-text","11","2.0.0","370182","p0rhsmwrzdd","","","","{""image_description"":""the letter 'H' but with very jagged edges and a fat left side""}","","","","","stimuli/121.jpg","hard","NaN","the letter 'H' but with very jagged edges and a fat left side","13","",""
+"","27200","survey-text","12","2.0.0","397382","p0rhsmwrzdd","","","","{""image_description"":""like 6 different scalene triangles all put together""}","","","","","stimuli/81.jpg","medium","NaN","like 6 different scalene triangles all put together","8","",""
+"","15517","survey-text","13","2.0.0","412899","p0rhsmwrzdd","","","","{""image_description"":""a dog or a small rodent with 4 legs and a big nose/muzzle""}","","","","","stimuli/97.jpg","medium","NaN","a dog or a small rodent with 4 legs and a big nose/muzzle","13","",""
+"","135736","survey-text","14","2.0.0","548634","p0rhsmwrzdd","","","","{""image_description"":""an almost rotationally symmetrical figure with two triangular mouths""}","","","","","stimuli/89.jpg","medium","NaN","an almost rotationally symmetrical figure with two triangular mouths","9","",""
+"","11914","survey-text","15","2.0.0","560549","p0rhsmwrzdd","","","","{""image_description"":""a pentagon pretending to be a triangle""}","","","","","stimuli/17.jpg","easy","NaN","a pentagon pretending to be a triangle","7","",""
+"","123221","survey-text","16","2.0.0","683770","p0rhsmwrzdd","","","","{""image_description"":""the letter 'H' but distorted so it looks like a fish""}","","","","","stimuli/129.jpg","hard","NaN","the letter 'H' but distorted so it looks like a fish","11","",""
+"","151982","survey-text","17","2.0.0","835751","p0rhsmwrzdd","","","","{""image_description"":""an 'F' that looks like a duck""}","","","","","stimuli/65.jpg","medium","NaN","an 'F' that looks like a duck","7","",""
+"","20034","survey-text","18","2.0.0","855787","p0rhsmwrzdd","","","","{""image_description"":""a hexagon that looks like a pointy house or a chapel""}","","","","","stimuli/25.jpg","easy","NaN","a hexagon that looks like a pointy house or a chapel","11","",""
+"","9065","survey-text","19","2.0.0","864853","p0rhsmwrzdd","","","","{""image_description"":""fish lips""}","","","","","stimuli/41.jpg","easy","NaN","fish lips","2","",""
+"","5763","survey-text","20","2.0.0","870618","p0rhsmwrzdd","","","","{""image_description"":""a trapezoid""}","","","","","stimuli/9.jpg","easy","NaN","a trapezoid","2","",""
+"","98470","survey-text","21","2.0.0","969087","p0rhsmwrzdd","","","","{""image_description"":""a cat on two legs holding up his really messed up arms""}","","","","","stimuli/137.jpg","hard","NaN","a cat on two legs holding up his really messed up arms","12","",""
+"","26465","survey-text","22","2.0.0","995553","p0rhsmwrzdd","","","","{""image_description"":""an exploded house""}","","","","","stimuli/153.jpg","hard","NaN","an exploded house","3","",""
+"","19381","survey-text","23","2.0.0","1014935","p0rhsmwrzdd","","","","{""image_description"":""a pentagon combined with a triangle at the bottom right""}","","","","","stimuli/33.jpg","easy","NaN","a pentagon combined with a triangle at the bottom right","10","",""
+"","4851","survey-text","24","2.0.0","1019787","p0rhsmwrzdd","","","","{""participant_major"":""CogSci ML""}","","","","","","","","","","",""
+"","1514","survey-multi-choice","25","2.2.0","1021302","p0rhsmwrzdd","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

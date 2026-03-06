@@ -1,0 +1,39 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1794","fullscreen","0","null","2804","pux451wsbyv","","","","","","","","","","","","","","",""
+"","4627","html-keyboard-response","1","2.0.0","7432","pux451wsbyv","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","3302","survey-text","2","2.0.0","10736","pux451wsbyv","","","","{""participant_id"":""whale""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","11043","pux451wsbyv","","","","","false","[]","[]","[]","","","","","","",""
+"","9186","survey-text","4","2.0.0","20233","pux451wsbyv","","","","{""image_description"":""rough and sharp""}","","","","","stimuli/155.jpg","hard","NaN","rough and sharp","3","",""
+"","3341","survey-text","5","2.0.0","23578","pux451wsbyv","","","","{""image_description"":""sharp\n""}","","","","","stimuli/67.jpg","medium","NaN","sharp
+","1","",""
+"","10874","survey-text","6","2.0.0","34457","pux451wsbyv","","","","{""image_description"":""semi-sharp semi-smooth""}","","","","","stimuli/91.jpg","medium","NaN","semi-sharp semi-smooth","2","",""
+"","12606","survey-text","7","2.0.0","47066","pux451wsbyv","","","","{""image_description"":""sharp""}","","","","","stimuli/75.jpg","medium","NaN","sharp","1","",""
+"","7533","survey-text","8","2.0.0","54603","pux451wsbyv","","","","{""image_description"":""sharp, straight, simple""}","","","","","stimuli/19.jpg","easy","NaN","sharp, straight, simple","3","",""
+"","8171","survey-text","9","2.0.0","62778","pux451wsbyv","","","","{""image_description"":""sharp and complex, concave""}","","","","","stimuli/131.jpg","hard","NaN","sharp and complex, concave","4","",""
+"","9885","survey-text","10","2.0.0","72666","pux451wsbyv","","","","{""image_description"":""simple""}","","","","","stimuli/43.jpg","easy","NaN","simple","1","",""
+"","3849","survey-text","11","2.0.0","76519","pux451wsbyv","","","","{""image_description"":""triangle""}","","","","","stimuli/3.jpg","easy","NaN","triangle","1","",""
+"","5938","survey-text","12","2.0.0","82461","pux451wsbyv","","","","{""image_description"":""simple""}","","","","","stimuli/27.jpg","easy","NaN","simple","1","",""
+"","10365","survey-text","13","2.0.0","92829","pux451wsbyv","","","","{""image_description"":""sharp, complex""}","","","","","stimuli/147.jpg","hard","NaN","sharp, complex","2","",""
+"","6333","survey-text","14","2.0.0","99165","pux451wsbyv","","","","{""image_description"":""sawtoothed""}","","","","","stimuli/59.jpg","medium","NaN","sawtoothed","1","",""
+"","5408","survey-text","15","2.0.0","104578","pux451wsbyv","","","","{""image_description"":""almost rectangular""}","","","","","stimuli/35.jpg","easy","NaN","almost rectangular","2","",""
+"","29789","survey-text","16","2.0.0","134371","pux451wsbyv","","","","{""image_description"":""angled""}","","","","","stimuli/83.jpg","medium","NaN","angled","1","",""
+"","8074","survey-text","17","2.0.0","142450","pux451wsbyv","","","","{""image_description"":""tilted diamond""}","","","","","stimuli/11.jpg","easy","NaN","tilted diamond","2","",""
+"","60380","survey-text","18","2.0.0","202834","pux451wsbyv","","","","{""image_description"":""sawtooth""}","","","","","stimuli/99.jpg","medium","NaN","sawtooth","1","",""
+"","34231","survey-text","19","2.0.0","237069","pux451wsbyv","","","","{""image_description"":""meteor""}","","","","","stimuli/51.jpg","easy","NaN","meteor","1","",""
+"","3643","survey-text","20","2.0.0","240716","pux451wsbyv","","","","{""image_description"":""frog""}","","","","","stimuli/139.jpg","hard","NaN","frog","1","",""
+"","43050","survey-text","21","2.0.0","283769","pux451wsbyv","","","","{""image_description"":""country map""}","","","","","stimuli/107.jpg","hard","NaN","country map","2","",""
+"","32665","survey-text","22","2.0.0","316437","pux451wsbyv","","","","{""image_description"":""sharp""}","","","","","stimuli/123.jpg","hard","NaN","sharp","1","",""
+"","2368","survey-text","23","2.0.0","318809","pux451wsbyv","","","","{""image_description"":""sharp""}","","","","","stimuli/115.jpg","hard","NaN","sharp","1","",""
+"","4143","survey-text","24","2.0.0","322955","pux451wsbyv","","","","{""participant_major"":""Aerospace Engineering""}","","","","","","","","","","",""
+"","1747","survey-multi-choice","25","2.2.0","324707","pux451wsbyv","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

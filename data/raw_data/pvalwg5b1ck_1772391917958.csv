@@ -1,0 +1,41 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1025351","fullscreen","0","null","1026357","pvalwg5b1ck","","","","","","","","","","","","","","",""
+"","7853","html-keyboard-response","1","2.0.0","1034213","pvalwg5b1ck","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","1829","survey-text","2","2.0.0","1036046","pvalwg5b1ck","","","","{""participant_id"":""swan""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","1036259","pvalwg5b1ck","","","","","false","[]","[]","[]","","","","","","",""
+"","7395","survey-text","4","2.0.0","1043659","pvalwg5b1ck","","","","{""image_description"":""a pointy shape\n""}","","","","","stimuli/32.jpg","easy","NaN","a pointy shape
+","3","",""
+"","10327","survey-text","5","2.0.0","1053988","pvalwg5b1ck","","","","{""image_description"":""a pointy shape with lots of sides and angles""}","","","","","stimuli/96.jpg","medium","NaN","a pointy shape with lots of sides and angles","9","",""
+"","9647","survey-text","6","2.0.0","1063637","pvalwg5b1ck","","","","{""image_description"":""a pointy shape with lots of sides and angles""}","","","","","stimuli/120.jpg","hard","NaN","a pointy shape with lots of sides and angles","9","",""
+"","11486","survey-text","7","2.0.0","1075125","pvalwg5b1ck","","","","{""image_description"":""a pointy shape that kind of looks like a bird""}","","","","","stimuli/128.jpg","hard","NaN","a pointy shape that kind of looks like a bird","10","",""
+"","12927","survey-text","8","2.0.0","1088054","pvalwg5b1ck","","","","{""image_description"":""a pointy shape with a few angles and corners""}","","","","","stimuli/48.jpg","easy","NaN","a pointy shape with a few angles and corners","9","",""
+"","11777","survey-text","9","2.0.0","1099833","pvalwg5b1ck","","","","{""image_description"":""a pointy shape with one large protrusion and several small ones""}","","","","","stimuli/56.jpg","medium","NaN","a pointy shape with one large protrusion and several small ones","11","",""
+"","8206","survey-text","10","2.0.0","1108042","pvalwg5b1ck","","","","{""image_description"":""a pointy shape with lots of protrusions\n""}","","","","","stimuli/104.jpg","medium","NaN","a pointy shape with lots of protrusions
+","7","",""
+"","5372","survey-text","11","2.0.0","1113417","pvalwg5b1ck","","","","{""image_description"":""a pointy shape ""}","","","","","stimuli/64.jpg","medium","NaN","a pointy shape ","3","",""
+"","9896","survey-text","12","2.0.0","1123315","pvalwg5b1ck","","","","{""image_description"":""a shape with zigzag edge""}","","","","","stimuli/40.jpg","easy","NaN","a shape with zigzag edge","5","",""
+"","6124","survey-text","13","2.0.0","1129441","pvalwg5b1ck","","","","{""image_description"":""a shape with some protrusions""}","","","","","stimuli/72.jpg","medium","NaN","a shape with some protrusions","5","",""
+"","8092","survey-text","14","2.0.0","1137536","pvalwg5b1ck","","","","{""image_description"":""almost a hexagon\n""}","","","","","stimuli/24.jpg","easy","NaN","almost a hexagon
+","3","",""
+"","6891","survey-text","15","2.0.0","1144428","pvalwg5b1ck","","","","{""image_description"":""a shape with some pointy edges""}","","","","","stimuli/80.jpg","medium","NaN","a shape with some pointy edges","6","",""
+"","8961","survey-text","16","2.0.0","1153391","pvalwg5b1ck","","","","{""image_description"":""a shape with several pointy protrusions""}","","","","","stimuli/88.jpg","medium","NaN","a shape with several pointy protrusions","6","",""
+"","10636","survey-text","17","2.0.0","1164029","pvalwg5b1ck","","","","{""image_description"":""a shape with several protrusions and a few sharp angles""}","","","","","stimuli/152.jpg","hard","NaN","a shape with several protrusions and a few sharp angles","10","",""
+"","4038","survey-text","18","2.0.0","1168069","pvalwg5b1ck","","","","{""image_description"":""a pointy shape""}","","","","","stimuli/112.jpg","hard","NaN","a pointy shape","3","",""
+"","9495","survey-text","19","2.0.0","1177566","pvalwg5b1ck","","","","{""image_description"":""a pointy shape with lots of angles""}","","","","","stimuli/136.jpg","hard","NaN","a pointy shape with lots of angles","7","",""
+"","3847","survey-text","20","2.0.0","1181416","pvalwg5b1ck","","","","{""image_description"":""a pointy shape""}","","","","","stimuli/144.jpg","hard","NaN","a pointy shape","3","",""
+"","7503","survey-text","21","2.0.0","1188921","pvalwg5b1ck","","","","{""image_description"":""a shape with a lot of edges""}","","","","","stimuli/160.jpg","hard","NaN","a shape with a lot of edges","7","",""
+"","5355","survey-text","22","2.0.0","1194279","pvalwg5b1ck","","","","{""image_description"":""a parallelogram""}","","","","","stimuli/8.jpg","easy","NaN","a parallelogram","2","",""
+"","7084","survey-text","23","2.0.0","1201365","pvalwg5b1ck","","","","{""image_description"":""a triangle-like shape""}","","","","","stimuli/16.jpg","easy","NaN","a triangle-like shape","3","",""
+"","2958","survey-text","24","2.0.0","1204324","pvalwg5b1ck","","","","{""participant_major"":""CBN""}","","","","","","","","","","",""
+"","1506","survey-multi-choice","25","2.2.0","1205833","pvalwg5b1ck","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

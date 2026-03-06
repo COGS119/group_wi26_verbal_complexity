@@ -1,0 +1,39 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1412","fullscreen","0","null","2420","pltgkvtgdxb","","","","","","","","","","","","","","",""
+"","14238","html-keyboard-response","1","2.0.0","16659","pltgkvtgdxb","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2794","survey-text","2","2.0.0","19457","pltgkvtgdxb","","","","{""participant_id"":""giraffe""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","19753","pltgkvtgdxb","","","","","false","[]","[]","[]","","","","","","",""
+"","35116","survey-text","4","2.0.0","54874","pltgkvtgdxb","","","","{""image_description"":""Rectangle with a bite taken out of the bottom right corner.""}","","","","","stimuli/40.jpg","easy","NaN","Rectangle with a bite taken out of the bottom right corner.","11","",""
+"","41970","survey-text","5","2.0.0","96846","pltgkvtgdxb","","","","{""image_description"":""Like the letter C with flames on the left side""}","","","","","stimuli/72.jpg","medium","NaN","Like the letter C with flames on the left side","10","",""
+"","26711","survey-text","6","2.0.0","123559","pltgkvtgdxb","","","","{""image_description"":""Maine, but fatter""}","","","","","stimuli/24.jpg","easy","NaN","Maine, but fatter","3","",""
+"","17970","survey-text","7","2.0.0","141530","pltgkvtgdxb","","","","{""image_description"":""Pyramid head from silent hill 2 but sideways""}","","","","","stimuli/16.jpg","easy","NaN","Pyramid head from silent hill 2 but sideways","8","",""
+"","26638","survey-text","8","2.0.0","168170","pltgkvtgdxb","","","","{""image_description"":""Bed head for somebody with medium-long hair""}","","","","","stimuli/112.jpg","hard","NaN","Bed head for somebody with medium-long hair","7","",""
+"","11953","survey-text","9","2.0.0","180125","pltgkvtgdxb","","","","{""image_description"":""a swan flying with big feet""}","","","","","stimuli/128.jpg","hard","NaN","a swan flying with big feet","6","",""
+"","12213","survey-text","10","2.0.0","192340","pltgkvtgdxb","","","","{""image_description"":""vulpix from pokemon""}","","","","","stimuli/144.jpg","hard","NaN","vulpix from pokemon","3","",""
+"","39084","survey-text","11","2.0.0","231426","pltgkvtgdxb","","","","{""image_description"":""scrappy doo with a jet propellor on his back, sliding across the ground on a piece of cardboard""}","","","","","stimuli/120.jpg","hard","NaN","scrappy doo with a jet propellor on his back, sliding across the ground on a piece of cardboard","18","",""
+"","32772","survey-text","12","2.0.0","264201","pltgkvtgdxb","","","","{""image_description"":""a ghost with a pointy hat and flappy arms flying through the air""}","","","","","stimuli/104.jpg","medium","NaN","a ghost with a pointy hat and flappy arms flying through the air","13","",""
+"","48277","survey-text","13","2.0.0","312479","pltgkvtgdxb","","","","{""image_description"":""w carved out of rock by someone who is not an experienced stone mason""}","","","","","stimuli/160.jpg","hard","NaN","w carved out of rock by someone who is not an experienced stone mason","14","",""
+"","46077","survey-text","14","2.0.0","358558","pltgkvtgdxb","","","","{""image_description"":""a profile view of a knight's helmet, like one with just the eye slit""}","","","","","stimuli/56.jpg","medium","NaN","a profile view of a knight's helmet, like one with just the eye slit","14","",""
+"","40964","survey-text","15","2.0.0","399523","pltgkvtgdxb","","","","{""image_description"":""a bird flying downwards and to the righ""}","","","","","stimuli/64.jpg","medium","NaN","a bird flying downwards and to the righ","8","",""
+"","29081","survey-text","16","2.0.0","428605","pltgkvtgdxb","","","","{""image_description"":""backwards N, but chunkier\n""}","","","","","stimuli/48.jpg","easy","NaN","backwards N, but chunkier
+","4","",""
+"","22700","survey-text","17","2.0.0","451307","pltgkvtgdxb","","","","{""image_description"":""crumpled up construction paper""}","","","","","stimuli/96.jpg","medium","NaN","crumpled up construction paper","4","",""
+"","44777","survey-text","18","2.0.0","496086","pltgkvtgdxb","","","","{""image_description"":""an anchor drawn by someone who has never seen an anchor and had it described to them by a 6 year old""}","","","","","stimuli/88.jpg","medium","NaN","an anchor drawn by someone who has never seen an anchor and had it described to them by a 6 year old","22","",""
+"","27387","survey-text","19","2.0.0","523475","pltgkvtgdxb","","","","{""image_description"":""a lid to a soy sauce bottle that has a chip missing out of the bottom""}","","","","","stimuli/32.jpg","easy","NaN","a lid to a soy sauce bottle that has a chip missing out of the bottom","16","",""
+"","39810","survey-text","20","2.0.0","563287","pltgkvtgdxb","","","","{""image_description"":""a deer man wearing a collared shirt (just the neck and head portion)""}","","","","","stimuli/152.jpg","hard","NaN","a deer man wearing a collared shirt (just the neck and head portion)","13","",""
+"","14223","survey-text","21","2.0.0","577512","pltgkvtgdxb","","","","{""image_description"":""rhombus""}","","","","","stimuli/8.jpg","easy","NaN","rhombus","1","",""
+"","20050","survey-text","22","2.0.0","597564","pltgkvtgdxb","","","","{""image_description"":""carrot being zapped by a big lightning bolt""}","","","","","stimuli/80.jpg","medium","NaN","carrot being zapped by a big lightning bolt","8","",""
+"","12788","survey-text","23","2.0.0","610354","pltgkvtgdxb","","","","{""image_description"":""charizard from pokemon flying""}","","","","","stimuli/136.jpg","hard","NaN","charizard from pokemon flying","4","",""
+"","8834","survey-text","24","2.0.0","619190","pltgkvtgdxb","","","","{""participant_major"":""Cognitive and Behavioral Neuroscience""}","","","","","","","","","","",""
+"","2320","survey-multi-choice","25","2.2.0","621512","pltgkvtgdxb","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

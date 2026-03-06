@@ -1,0 +1,44 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1669","fullscreen","0","null","2683","p0ncqkt89ht","","","","","","","","","","","","","","",""
+"","18888","html-keyboard-response","1","2.0.0","21574","p0ncqkt89ht","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","1946","survey-text","2","2.0.0","23526","p0ncqkt89ht","","","","{""participant_id"":""elk""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","23725","p0ncqkt89ht","","","","","false","[]","[]","[]","","","","","","",""
+"","18985","survey-text","4","2.0.0","42746","p0ncqkt89ht","","","","{""image_description"":""5 sides, shaped like a triangle""}","","","","","stimuli/17.jpg","easy","NaN","5 sides, shaped like a triangle","6","",""
+"","17348","survey-text","5","2.0.0","60120","p0ncqkt89ht","","","","{""image_description"":""looks like a leaf, lots of sides, polygon\n""}","","","","","stimuli/129.jpg","hard","NaN","looks like a leaf, lots of sides, polygon
+","8","",""
+"","56419","survey-text","6","2.0.0","116564","p0ncqkt89ht","","","","{""image_description"":""looks like shoe, 11 sides\n""}","","","","","stimuli/41.jpg","easy","NaN","looks like shoe, 11 sides
+","5","",""
+"","25303","survey-text","7","2.0.0","141893","p0ncqkt89ht","","","","{""image_description"":""looks like a paper crane\n""}","","","","","stimuli/73.jpg","medium","NaN","looks like a paper crane
+","5","",""
+"","12959","survey-text","8","2.0.0","154873","p0ncqkt89ht","","","","{""image_description"":""looks like a dragon, lots of sides, some pointy edges\n""}","","","","","stimuli/137.jpg","hard","NaN","looks like a dragon, lots of sides, some pointy edges
+","10","",""
+"","21436","survey-text","9","2.0.0","176330","p0ncqkt89ht","","","","{""image_description"":""lots of pointy edges, lots of sides""}","","","","","stimuli/153.jpg","hard","NaN","lots of pointy edges, lots of sides","7","",""
+"","27079","survey-text","10","2.0.0","203428","p0ncqkt89ht","","","","{""image_description"":""16 sides, 7 pointy edges\n""}","","","","","stimuli/89.jpg","medium","NaN","16 sides, 7 pointy edges
+","5","",""
+"","38361","survey-text","11","2.0.0","241806","p0ncqkt89ht","","","","{""image_description"":""lots of edges, ""}","","","","","stimuli/121.jpg","hard","NaN","lots of edges, ","3","",""
+"","31758","survey-text","12","2.0.0","273581","p0ncqkt89ht","","","","{""image_description"":""3 triangles, at least 2 squares""}","","","","","stimuli/105.jpg","medium","NaN","3 triangles, at least 2 squares","6","",""
+"","8665","survey-text","13","2.0.0","282266","p0ncqkt89ht","","","","{""image_description"":""triangle, 3 sides, 3 angles""}","","","","","stimuli/1.jpg","easy","NaN","triangle, 3 sides, 3 angles","5","",""
+"","43115","survey-text","14","2.0.0","325406","p0ncqkt89ht","","","","{""image_description"":""lots of edges, two triangles, trapezoids and squares ""}","","","","","stimuli/97.jpg","medium","NaN","lots of edges, two triangles, trapezoids and squares ","8","",""
+"","29409","survey-text","15","2.0.0","354833","p0ncqkt89ht","","","","{""image_description"":""1 triangel, 3 squares ""}","","","","","stimuli/25.jpg","easy","NaN","1 triangel, 3 squares ","4","",""
+"","14622","survey-text","16","2.0.0","369473","p0ncqkt89ht","","","","{""image_description"":""rectangle, 4 sides, 4 angles""}","","","","","stimuli/9.jpg","easy","NaN","rectangle, 4 sides, 4 angles","5","",""
+"","17913","survey-text","17","2.0.0","387402","p0ncqkt89ht","","","","{""image_description"":""combination of triangles, squares ""}","","","","","stimuli/57.jpg","medium","NaN","combination of triangles, squares ","4","",""
+"","22012","survey-text","18","2.0.0","409429","p0ncqkt89ht","","","","{""image_description"":""9 sides""}","","","","","stimuli/33.jpg","easy","NaN","9 sides","2","",""
+"","19216","survey-text","19","2.0.0","428662","p0ncqkt89ht","","","","{""image_description"":""lots of sides, one part looks like a crab claw ""}","","","","","stimuli/113.jpg","hard","NaN","lots of sides, one part looks like a crab claw ","10","",""
+"","50526","survey-text","20","2.0.0","479205","p0ncqkt89ht","","","","{""image_description"":""rounded edges in some parts, also pointed edges, looks like a few triangles and squares were cut out of the shape""}","","","","","stimuli/145.jpg","hard","NaN","rounded edges in some parts, also pointed edges, looks like a few triangles and squares were cut out of the shape","21","",""
+"","28095","survey-text","21","2.0.0","507320","p0ncqkt89ht","","","","{""image_description"":""looks like a lot of triangles stacked on each other""}","","","","","stimuli/81.jpg","medium","NaN","looks like a lot of triangles stacked on each other","10","",""
+"","18020","survey-text","22","2.0.0","525358","p0ncqkt89ht","","","","{""image_description"":""looks like a swan neck and head, triangles, and squares""}","","","","","stimuli/65.jpg","medium","NaN","looks like a swan neck and head, triangles, and squares","10","",""
+"","33918","survey-text","23","2.0.0","559296","p0ncqkt89ht","","","","{""image_description"":""12 sides, triangles and rectangles\n""}","","","","","stimuli/49.jpg","easy","NaN","12 sides, triangles and rectangles
+","5","",""
+"","8386","survey-text","24","2.0.0","567689","p0ncqkt89ht","","","","{""participant_major"":""Cognitive Behavioral Neuroscience""}","","","","","","","","","","",""
+"","2590","survey-multi-choice","25","2.2.0","570284","p0ncqkt89ht","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

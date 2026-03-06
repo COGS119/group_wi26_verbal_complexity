@@ -1,0 +1,41 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1905","fullscreen","0","null","2910","ph9syul0y3h","","","","","","","","","","","","","","",""
+"","62899","html-keyboard-response","1","2.0.0","65811","ph9syul0y3h","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2099","survey-text","2","2.0.0","67914","ph9syul0y3h","","","","{""participant_id"":""lion""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","68138","ph9syul0y3h","","","","","false","[]","[]","[]","","","","","","",""
+"","6249","survey-text","4","2.0.0","74392","ph9syul0y3h","","","","{""image_description"":""square and triangle \n""}","","","","","stimuli/25.jpg","easy","NaN","square and triangle 
+","3","",""
+"","15170","survey-text","5","2.0.0","89564","ph9syul0y3h","","","","{""image_description"":""triangles smooshed together ""}","","","","","stimuli/89.jpg","medium","NaN","triangles smooshed together ","3","",""
+"","10567","survey-text","6","2.0.0","100133","ph9syul0y3h","","","","{""image_description"":""bird or a crane""}","","","","","stimuli/65.jpg","medium","NaN","bird or a crane","4","",""
+"","4282","survey-text","7","2.0.0","104417","ph9syul0y3h","","","","{""image_description"":""person dancing""}","","","","","stimuli/145.jpg","hard","NaN","person dancing","2","",""
+"","3682","survey-text","8","2.0.0","108102","ph9syul0y3h","","","","{""image_description"":""dragon""}","","","","","stimuli/137.jpg","hard","NaN","dragon","1","",""
+"","3099","survey-text","9","2.0.0","111202","ph9syul0y3h","","","","{""image_description"":""crab""}","","","","","stimuli/113.jpg","hard","NaN","crab","1","",""
+"","8499","survey-text","10","2.0.0","119703","ph9syul0y3h","","","","{""image_description"":""triangles and squares\n""}","","","","","stimuli/57.jpg","medium","NaN","triangles and squares
+","3","",""
+"","19796","survey-text","11","2.0.0","139501","ph9syul0y3h","","","","{""image_description"":""triangle ""}","","","","","stimuli/17.jpg","easy","NaN","triangle ","1","",""
+"","2749","survey-text","12","2.0.0","142252","ph9syul0y3h","","","","{""image_description"":""person""}","","","","","stimuli/105.jpg","medium","NaN","person","1","",""
+"","3682","survey-text","13","2.0.0","145936","ph9syul0y3h","","","","{""image_description"":""triangle""}","","","","","stimuli/1.jpg","easy","NaN","triangle","1","",""
+"","6683","survey-text","14","2.0.0","152620","ph9syul0y3h","","","","{""image_description"":""triangle and square combo""}","","","","","stimuli/33.jpg","easy","NaN","triangle and square combo","4","",""
+"","19924","survey-text","15","2.0.0","172546","ph9syul0y3h","","","","{""image_description"":""a monster with its mouth open\n""}","","","","","stimuli/97.jpg","medium","NaN","a monster with its mouth open
+","6","",""
+"","20692","survey-text","16","2.0.0","193241","ph9syul0y3h","","","","{""image_description"":""parallologram and squares and triangle mixed""}","","","","","stimuli/121.jpg","hard","NaN","parallologram and squares and triangle mixed","6","",""
+"","9734","survey-text","17","2.0.0","202977","ph9syul0y3h","","","","{""image_description"":""triangle thingy""}","","","","","stimuli/81.jpg","medium","NaN","triangle thingy","2","",""
+"","11119","survey-text","18","2.0.0","214098","ph9syul0y3h","","","","{""image_description"":""square and triangle""}","","","","","stimuli/49.jpg","easy","NaN","square and triangle","3","",""
+"","5749","survey-text","19","2.0.0","219849","ph9syul0y3h","","","","{""image_description"":""parallelogram""}","","","","","stimuli/9.jpg","easy","NaN","parallelogram","1","",""
+"","5168","survey-text","20","2.0.0","225018","ph9syul0y3h","","","","{""image_description"":""fish""}","","","","","stimuli/41.jpg","easy","NaN","fish","1","",""
+"","3566","survey-text","21","2.0.0","228586","ph9syul0y3h","","","","{""image_description"":""bunny""}","","","","","stimuli/73.jpg","medium","NaN","bunny","1","",""
+"","3515","survey-text","22","2.0.0","232103","ph9syul0y3h","","","","{""image_description"":""person""}","","","","","stimuli/129.jpg","hard","NaN","person","1","",""
+"","11068","survey-text","23","2.0.0","243172","ph9syul0y3h","","","","{""image_description"":""random shape no idea how to describe it ""}","","","","","stimuli/153.jpg","hard","NaN","random shape no idea how to describe it ","8","",""
+"","8753","survey-text","24","2.0.0","251926","ph9syul0y3h","","","","{""participant_major"":""cog behavioral neuroscience""}","","","","","","","","","","",""
+"","2297","survey-multi-choice","25","2.2.0","254226","ph9syul0y3h","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

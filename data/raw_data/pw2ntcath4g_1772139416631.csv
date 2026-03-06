@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1152","fullscreen","0","null","2157","pw2ntcath4g","","","","","","","","","","","","","","",""
+"","6305","html-keyboard-response","1","2.0.0","8466","pw2ntcath4g","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","13173","survey-text","2","2.0.0","21647","pw2ntcath4g","","","","{""participant_id"":""fox""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","22218","pw2ntcath4g","","","","","false","[]","[]","[]","","","","","","",""
+"","18251","survey-text","4","2.0.0","40476","pw2ntcath4g","","","","{""image_description"":""funny shaped hat with sharp point""}","","","","","stimuli/70.jpg","medium","NaN","funny shaped hat with sharp point","6","",""
+"","20117","survey-text","5","2.0.0","60595","pw2ntcath4g","","","","{""image_description"":""messed up trapezoid with 3/4 of a square attached""}","","","","","stimuli/54.jpg","medium","NaN","messed up trapezoid with 3/4 of a square attached","9","",""
+"","30241","survey-text","6","2.0.0","90841","pw2ntcath4g","","","","{""image_description"":""house with weird, sharp path""}","","","","","stimuli/134.jpg","hard","NaN","house with weird, sharp path","5","",""
+"","49154","survey-text","7","2.0.0","139997","pw2ntcath4g","","","","{""image_description"":""funny shaped pelican""}","","","","","stimuli/118.jpg","hard","NaN","funny shaped pelican","3","",""
+"","11502","survey-text","8","2.0.0","151502","pw2ntcath4g","","","","{""image_description"":""trapezoid with elongated right side""}","","","","","stimuli/6.jpg","easy","NaN","trapezoid with elongated right side","5","",""
+"","22800","survey-text","9","2.0.0","174305","pw2ntcath4g","","","","{""image_description"":""rectangle with two scalene triangles attached""}","","","","","stimuli/38.jpg","easy","NaN","rectangle with two scalene triangles attached","6","",""
+"","23676","survey-text","10","2.0.0","197983","pw2ntcath4g","","","","{""image_description"":""corner piece with giant diamond and square""}","","","","","stimuli/46.jpg","easy","NaN","corner piece with giant diamond and square","7","",""
+"","12377","survey-text","11","2.0.0","210361","pw2ntcath4g","","","","{""image_description"":""trapezoid that looks like a square""}","","","","","stimuli/14.jpg","easy","NaN","trapezoid that looks like a square","6","",""
+"","5941","survey-text","12","2.0.0","216305","pw2ntcath4g","","","","{""image_description"":""dog with wings""}","","","","","stimuli/142.jpg","hard","NaN","dog with wings","3","",""
+"","16088","survey-text","13","2.0.0","232394","pw2ntcath4g","","","","{""image_description"":""pentagon with a wing shaped piece taken out""}","","","","","stimuli/62.jpg","medium","NaN","pentagon with a wing shaped piece taken out","8","",""
+"","8637","survey-text","14","2.0.0","241034","pw2ntcath4g","","","","{""image_description"":""dog with funny tail""}","","","","","stimuli/110.jpg","hard","NaN","dog with funny tail","4","",""
+"","34404","survey-text","15","2.0.0","275439","pw2ntcath4g","","","","{""image_description"":""square if i was looking at it from the top left""}","","","","","stimuli/22.jpg","easy","NaN","square if i was looking at it from the top left","11","",""
+"","19310","survey-text","16","2.0.0","294750","pw2ntcath4g","","","","{""image_description"":""target dog inside a lion""}","","","","","stimuli/150.jpg","hard","NaN","target dog inside a lion","5","",""
+"","21390","survey-text","17","2.0.0","316141","pw2ntcath4g","","","","{""image_description"":""janky looking bird. almost pterodactyl shaped""}","","","","","stimuli/78.jpg","medium","NaN","janky looking bird. almost pterodactyl shaped","6","",""
+"","7768","survey-text","18","2.0.0","323911","pw2ntcath4g","","","","{""image_description"":""kiki""}","","","","","stimuli/86.jpg","medium","NaN","kiki","1","",""
+"","108170","survey-text","19","2.0.0","432081","pw2ntcath4g","","","","{""image_description"":""if a kid was cutting out shaped from a paper. looks like gazelle cut out""}","","","","","stimuli/126.jpg","hard","NaN","if a kid was cutting out shaped from a paper. looks like gazelle cut out","15","",""
+"","22022","survey-text","20","2.0.0","454104","pw2ntcath4g","","","","{""image_description"":""squares and rectangles with triangles attached""}","","","","","stimuli/94.jpg","medium","NaN","squares and rectangles with triangles attached","6","",""
+"","3876","survey-text","21","2.0.0","457982","pw2ntcath4g","","","","{""image_description"":""vase""}","","","","","stimuli/30.jpg","easy","NaN","vase","1","",""
+"","34984","survey-text","22","2.0.0","492967","pw2ntcath4g","","","","{""image_description"":""shadow from sonic if i was looking at him from his left side profile ""}","","","","","stimuli/102.jpg","medium","NaN","shadow from sonic if i was looking at him from his left side profile ","14","",""
+"","9298","survey-text","23","2.0.0","502267","pw2ntcath4g","","","","{""image_description"":""praying mantis with wing""}","","","","","stimuli/158.jpg","hard","NaN","praying mantis with wing","4","",""
+"","5326","survey-text","24","2.0.0","507595","pw2ntcath4g","","","","{""participant_major"":""cognitive behavioral neuroscience""}","","","","","","","","","","",""
+"","1485","survey-multi-choice","25","2.2.0","509083","pw2ntcath4g","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

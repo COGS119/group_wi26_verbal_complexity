@@ -1,0 +1,46 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1598","fullscreen","0","null","2602","p0dapobkyam","","","","","","","","","","","","","","",""
+"","17301","html-keyboard-response","1","2.0.0","19907","p0dapobkyam","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","5084","survey-text","2","2.0.0","24997","p0dapobkyam","","","","{""participant_id"":""dolphin""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","25208","p0dapobkyam","","","","","false","[]","[]","[]","","","","","","",""
+"","8523","survey-text","4","2.0.0","33750","p0dapobkyam","","","","{""image_description"":""rhombus ""}","","","","","stimuli/8.jpg","easy","NaN","rhombus ","1","",""
+"","10431","survey-text","5","2.0.0","44191","p0dapobkyam","","","","{""image_description"":""not a shape \n""}","","","","","stimuli/152.jpg","hard","NaN","not a shape 
+","3","",""
+"","11657","survey-text","6","2.0.0","55856","p0dapobkyam","","","","{""image_description"":""triangle\n""}","","","","","stimuli/16.jpg","easy","NaN","triangle
+","1","",""
+"","19743","survey-text","7","2.0.0","75608","p0dapobkyam","","","","{""image_description"":""not a shape\n""}","","","","","stimuli/72.jpg","medium","NaN","not a shape
+","3","",""
+"","12357","survey-text","8","2.0.0","87973","p0dapobkyam","","","","{""image_description"":""hexagon""}","","","","","stimuli/24.jpg","easy","NaN","hexagon","1","",""
+"","18540","survey-text","9","2.0.0","106521","p0dapobkyam","","","","{""image_description"":""not a shape""}","","","","","stimuli/120.jpg","hard","NaN","not a shape","3","",""
+"","5794","survey-text","10","2.0.0","112324","p0dapobkyam","","","","{""image_description"":""not a shape""}","","","","","stimuli/64.jpg","medium","NaN","not a shape","3","",""
+"","11556","survey-text","11","2.0.0","123888","p0dapobkyam","","","","{""image_description"":""lightning bolt""}","","","","","stimuli/80.jpg","medium","NaN","lightning bolt","2","",""
+"","11543","survey-text","12","2.0.0","135441","p0dapobkyam","","","","{""image_description"":""star""}","","","","","stimuli/144.jpg","hard","NaN","star","1","",""
+"","13424","survey-text","13","2.0.0","148874","p0dapobkyam","","","","{""image_description"":""not a shape\n""}","","","","","stimuli/104.jpg","medium","NaN","not a shape
+","3","",""
+"","8322","survey-text","14","2.0.0","157203","p0dapobkyam","","","","{""image_description"":""rectangle""}","","","","","stimuli/48.jpg","easy","NaN","rectangle","1","",""
+"","6744","survey-text","15","2.0.0","163954","p0dapobkyam","","","","{""image_description"":""not a shape\n""}","","","","","stimuli/112.jpg","hard","NaN","not a shape
+","3","",""
+"","22028","survey-text","16","2.0.0","185989","p0dapobkyam","","","","{""image_description"":""triangles and rectangles""}","","","","","stimuli/88.jpg","medium","NaN","triangles and rectangles","3","",""
+"","17593","survey-text","17","2.0.0","203591","p0dapobkyam","","","","{""image_description"":""squares and triangles\n""}","","","","","stimuli/40.jpg","easy","NaN","squares and triangles
+","3","",""
+"","7406","survey-text","18","2.0.0","211005","p0dapobkyam","","","","{""image_description"":""dragon shape""}","","","","","stimuli/136.jpg","hard","NaN","dragon shape","2","",""
+"","14210","survey-text","19","2.0.0","225222","p0dapobkyam","","","","{""image_description"":""square""}","","","","","stimuli/56.jpg","medium","NaN","square","1","",""
+"","45159","survey-text","20","2.0.0","270387","p0dapobkyam","","","","{""image_description"":""butterfly""}","","","","","stimuli/160.jpg","hard","NaN","butterfly","1","",""
+"","13144","survey-text","21","2.0.0","283541","p0dapobkyam","","","","{""image_description"":""looks like a bird\n""}","","","","","stimuli/128.jpg","hard","NaN","looks like a bird
+","4","",""
+"","20840","survey-text","22","2.0.0","304389","p0dapobkyam","","","","{""image_description"":""a mix of triangles and squares\n""}","","","","","stimuli/96.jpg","medium","NaN","a mix of triangles and squares
+","6","",""
+"","8092","survey-text","23","2.0.0","312492","p0dapobkyam","","","","{""image_description"":""paper plane""}","","","","","stimuli/32.jpg","easy","NaN","paper plane","2","",""
+"","16138","survey-text","24","2.0.0","328632","p0dapobkyam","","","","{""participant_major"":""Cognitive and Behavioral Neuroscience""}","","","","","","","","","","",""
+"","2266","survey-multi-choice","25","2.2.0","330901","p0dapobkyam","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

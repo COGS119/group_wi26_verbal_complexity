@@ -1,0 +1,42 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1235","fullscreen","0","null","2239","p09z5qk6x27","","","","","","","","","","","","","","",""
+"","13634","html-keyboard-response","1","2.0.0","15876","p09z5qk6x27","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2395","survey-text","2","2.0.0","18274","p09z5qk6x27","","","","{""participant_id"":""lynx""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","18572","p09z5qk6x27","","","","","false","[]","[]","[]","","","","","","",""
+"","74162","survey-text","4","2.0.0","92742","p09z5qk6x27","","","","{""image_description"":""sharp and uneven ""}","","","","","stimuli/114.jpg","hard","NaN","sharp and uneven ","3","",""
+"","82838","survey-text","5","2.0.0","175586","p09z5qk6x27","","","","{""image_description"":""sort of symmetrical, sort of sharp and pointy with some flat edges""}","","","","","stimuli/82.jpg","medium","NaN","sort of symmetrical, sort of sharp and pointy with some flat edges","12","",""
+"","85431","survey-text","6","2.0.0","261021","p09z5qk6x27","","","","{""image_description"":""flat edges kinda boring lowkey no personality""}","","","","","stimuli/58.jpg","medium","NaN","flat edges kinda boring lowkey no personality","7","",""
+"","48393","survey-text","7","2.0.0","309419","p09z5qk6x27","","","","{""image_description"":""even and square-like, kind of looks like a trapezoid,4 clear sides""}","","","","","stimuli/10.jpg","easy","NaN","even and square-like, kind of looks like a trapezoid,4 clear sides","11","",""
+"","68748","survey-text","8","2.0.0","378174","p09z5qk6x27","","","","{""image_description"":""one side has more points and sharper edges and the other side has less""}","","","","","stimuli/66.jpg","medium","NaN","one side has more points and sharper edges and the other side has less","14","",""
+"","129373","survey-text","9","2.0.0","507556","p09z5qk6x27","","","","{""image_description"":""uneven but not sharp, looks like it has some arms or branches sticking out from it\n""}","","","","","stimuli/122.jpg","hard","NaN","uneven but not sharp, looks like it has some arms or branches sticking out from it
+","16","",""
+"","42605","survey-text","10","2.0.0","550167","p09z5qk6x27","","","","{""image_description"":""looks like a dorito with a part taken out of it, like it was almost a triangle but had a part removed""}","","","","","stimuli/26.jpg","easy","NaN","looks like a dorito with a part taken out of it, like it was almost a triangle but had a part removed","22","",""
+"","40897","survey-text","11","2.0.0","591070","p09z5qk6x27","","","","{""image_description"":""sharp and uneven, has some clean 90 degree angles at the bottom middle ""}","","","","","stimuli/106.jpg","medium","NaN","sharp and uneven, has some clean 90 degree angles at the bottom middle ","13","",""
+"","47175","survey-text","12","2.0.0","638250","p09z5qk6x27","","","","{""image_description"":""skinny at the bottom and has a broad part at the top, overall flat edges""}","","","","","stimuli/42.jpg","easy","NaN","skinny at the bottom and has a broad part at the top, overall flat edges","15","",""
+"","58733","survey-text","13","2.0.0","696988","p09z5qk6x27","","","","{""image_description"":""kind of looks like an anvil if you look at it sideways""}","","","","","stimuli/98.jpg","medium","NaN","kind of looks like an anvil if you look at it sideways","12","",""
+"","30278","survey-text","14","2.0.0","727271","p09z5qk6x27","","","","{""image_description"":""3 mostly flat edges, with inward spikes at the top""}","","","","","stimuli/34.jpg","easy","NaN","3 mostly flat edges, with inward spikes at the top","10","",""
+"","73944","survey-text","15","2.0.0","801221","p09z5qk6x27","","","","{""image_description"":""looks like an L flipped and if it was sharp""}","","","","","stimuli/154.jpg","hard","NaN","looks like an L flipped and if it was sharp","10","",""
+"","58776","survey-text","16","2.0.0","860001","p09z5qk6x27","","","","{""image_description"":""uneven and jagged, lots of inward folding, making it has a large perimeter""}","","","","","stimuli/146.jpg","hard","NaN","uneven and jagged, lots of inward folding, making it has a large perimeter","13","",""
+"","18631","survey-text","17","2.0.0","878638","p09z5qk6x27","","","","{""image_description"":""looks like a kite\n""}","","","","","stimuli/18.jpg","easy","NaN","looks like a kite
+","4","",""
+"","11511","survey-text","18","2.0.0","890154","p09z5qk6x27","","","","{""image_description"":""sharp dorito""}","","","","","stimuli/2.jpg","easy","NaN","sharp dorito","2","",""
+"","99157","survey-text","19","2.0.0","989316","p09z5qk6x27","","","","{""image_description"":""uneven and jagged, uneven and asymetrical""}","","","","","stimuli/130.jpg","hard","NaN","uneven and jagged, uneven and asymetrical","6","",""
+"","70831","survey-text","20","2.0.0","1060152","p09z5qk6x27","","","","{""image_description"":""gives me massachusetts vibes""}","","","","","stimuli/50.jpg","easy","NaN","gives me massachusetts vibes","4","",""
+"","134194","survey-text","21","2.0.0","1194352","p09z5qk6x27","","","","{""image_description"":""one side is flat with spikes sticking out and the other sides are almost making a pyramid but ones dented\n""}","","","","","stimuli/74.jpg","medium","NaN","one side is flat with spikes sticking out and the other sides are almost making a pyramid but ones dented
+","20","",""
+"","37575","survey-text","22","2.0.0","1231932","p09z5qk6x27","","","","{""image_description"":""the right and top side look serated, the bottom left is flat""}","","","","","stimuli/138.jpg","hard","NaN","the right and top side look serated, the bottom left is flat","12","",""
+"","34696","survey-text","23","2.0.0","1266632","p09z5qk6x27","","","","{""image_description"":""flat and 90 degrees on top right, the others sides are uneven and jagged\n""}","","","","","stimuli/90.jpg","medium","NaN","flat and 90 degrees on top right, the others sides are uneven and jagged
+","14","",""
+"","8062","survey-text","24","2.0.0","1274697","p09z5qk6x27","","","","{""participant_major"":""Cognitive Behavioral Neuroscience""}","","","","","","","","","","",""
+"","2481","survey-multi-choice","25","2.2.0","1277180","p09z5qk6x27","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

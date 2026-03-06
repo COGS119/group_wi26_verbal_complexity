@@ -1,0 +1,40 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","174468","fullscreen","0","null","175476","p5xaudz7qwz","","","","","","","","","","","","","","",""
+"","10011","html-keyboard-response","1","2.0.0","185492","p5xaudz7qwz","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>","j","","","","","","","","","","",""
+"","12591","survey-text","2","2.0.0","198092","p5xaudz7qwz","","","","{""participant_id"":""deer""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","198283","p5xaudz7qwz","","","","","false","[]","[]","[]","","","","","","",""
+"","17730","survey-text","4","2.0.0","216024","p5xaudz7qwz","","","","{""image_description"":""square with an arrow pointing out of it""}","","","","","stimuli/67.jpg","medium","NaN","square with an arrow pointing out of it","8","",""
+"","16413","survey-text","5","2.0.0","232441","p5xaudz7qwz","","","","{""image_description"":""Like a grenade that got cut around the edges""}","","","","","stimuli/107.jpg","hard","NaN","Like a grenade that got cut around the edges","9","",""
+"","14379","survey-text","6","2.0.0","246824","p5xaudz7qwz","","","","{""image_description"":""A little man dancing with a hat on""}","","","","","stimuli/147.jpg","hard","NaN","A little man dancing with a hat on","8","",""
+"","11013","survey-text","7","2.0.0","257840","p5xaudz7qwz","","","","{""image_description"":""a fox head with very pointy ears\n""}","","","","","stimuli/123.jpg","hard","NaN","a fox head with very pointy ears
+","7","",""
+"","9281","survey-text","8","2.0.0","267125","p5xaudz7qwz","","","","{""image_description"":""sonic the hedgehog""}","","","","","stimuli/131.jpg","hard","NaN","sonic the hedgehog","3","",""
+"","23463","survey-text","9","2.0.0","290591","p5xaudz7qwz","","","","{""image_description"":""like someone falling from a plane upside down""}","","","","","stimuli/115.jpg","hard","NaN","like someone falling from a plane upside down","8","",""
+"","17813","survey-text","10","2.0.0","308408","p5xaudz7qwz","","","","{""image_description"":""a square with an arrow cut into it""}","","","","","stimuli/91.jpg","medium","NaN","a square with an arrow cut into it","8","",""
+"","9130","survey-text","11","2.0.0","317541","p5xaudz7qwz","","","","{""image_description"":""a fish""}","","","","","stimuli/51.jpg","easy","NaN","a fish","2","",""
+"","6730","survey-text","12","2.0.0","324274","p5xaudz7qwz","","","","{""image_description"":""rectangle kinda""}","","","","","stimuli/35.jpg","easy","NaN","rectangle kinda","2","",""
+"","3264","survey-text","13","2.0.0","327541","p5xaudz7qwz","","","","{""image_description"":""diamond""}","","","","","stimuli/11.jpg","easy","NaN","diamond","1","",""
+"","3114","survey-text","14","2.0.0","330658","p5xaudz7qwz","","","","{""image_description"":""triangle\n""}","","","","","stimuli/3.jpg","easy","NaN","triangle
+","1","",""
+"","13331","survey-text","15","2.0.0","343992","p5xaudz7qwz","","","","{""image_description"":""wind up toy monkey""}","","","","","stimuli/139.jpg","hard","NaN","wind up toy monkey","4","",""
+"","16697","survey-text","16","2.0.0","360692","p5xaudz7qwz","","","","{""image_description"":""arrow sign upside down""}","","","","","stimuli/27.jpg","easy","NaN","arrow sign upside down","4","",""
+"","72264","survey-text","17","2.0.0","432959","p5xaudz7qwz","","","","{""image_description"":""A foldable lamp hanging down with SOMETHING hanging out of it""}","","","","","stimuli/99.jpg","medium","NaN","A foldable lamp hanging down with SOMETHING hanging out of it","11","",""
+"","9764","survey-text","18","2.0.0","442725","p5xaudz7qwz","","","","{""image_description"":""a gun thats slightly melted""}","","","","","stimuli/43.jpg","easy","NaN","a gun thats slightly melted","5","",""
+"","8247","survey-text","19","2.0.0","450975","p5xaudz7qwz","","","","{""image_description"":""a gun that isn't melted""}","","","","","stimuli/19.jpg","easy","NaN","a gun that isn't melted","5","",""
+"","17382","survey-text","20","2.0.0","468359","p5xaudz7qwz","","","","{""image_description"":""aang from avatar's head""}","","","","","stimuli/83.jpg","medium","NaN","aang from avatar's head","4","",""
+"","5463","survey-text","21","2.0.0","473825","p5xaudz7qwz","","","","{""image_description"":""the letter m""}","","","","","stimuli/59.jpg","medium","NaN","the letter m","3","",""
+"","4997","survey-text","22","2.0.0","478826","p5xaudz7qwz","","","","{""image_description"":""a flying bird""}","","","","","stimuli/75.jpg","medium","NaN","a flying bird","3","",""
+"","26430","survey-text","23","2.0.0","505259","p5xaudz7qwz","","","","{""image_description"":""a witch on a broomstick""}","","","","","stimuli/155.jpg","hard","NaN","a witch on a broomstick","5","",""
+"","4630","survey-text","24","2.0.0","509892","p5xaudz7qwz","","","","{""participant_major"":""Cognitive Science""}","","","","","","","","","","",""
+"","1683","survey-multi-choice","25","2.2.0","511578","p5xaudz7qwz","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

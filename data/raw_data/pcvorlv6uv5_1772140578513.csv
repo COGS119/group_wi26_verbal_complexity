@@ -1,0 +1,40 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1261","fullscreen","0","null","2275","pcvorlv6uv5","","","","","","","","","","","","","","",""
+"","11423","html-keyboard-response","1","2.0.0","13700","pcvorlv6uv5","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2677","survey-text","2","2.0.0","16381","pcvorlv6uv5","","","","{""participant_id"":""sloth""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","16526","pcvorlv6uv5","","","","","false","[]","[]","[]","","","","","","",""
+"","24317","survey-text","4","2.0.0","40853","pcvorlv6uv5","","","","{""image_description"":""angular, like a US state with triangle cutting into it ""}","","","","","stimuli/55.jpg","medium","NaN","angular, like a US state with triangle cutting into it ","10","",""
+"","34562","survey-text","5","2.0.0","75418","pcvorlv6uv5","","","","{""image_description"":""smooth, many sides, three squarish sections ""}","","","","","stimuli/95.jpg","medium","NaN","smooth, many sides, three squarish sections ","6","",""
+"","38687","survey-text","6","2.0.0","114108","pcvorlv6uv5","","","","{""image_description"":""big trapizoidal base with mroe trapizoids sticking out on top and one on each side. Top one has two more squares also""}","","","","","stimuli/111.jpg","hard","NaN","big trapizoidal base with mroe trapizoids sticking out on top and one on each side. Top one has two more squares also","22","",""
+"","47621","survey-text","7","2.0.0","161731","pcvorlv6uv5","","","","{""image_description"":""a square with a triangle on top and another larger triangle ont he side\n""}","","","","","stimuli/47.jpg","easy","NaN","a square with a triangle on top and another larger triangle ont he side
+","14","",""
+"","14957","survey-text","8","2.0.0","176690","pcvorlv6uv5","","","","{""image_description"":""a square with two triangles cutting out the right side\n""}","","","","","stimuli/31.jpg","easy","NaN","a square with two triangles cutting out the right side
+","10","",""
+"","32765","survey-text","9","2.0.0","209459","pcvorlv6uv5","","","","{""image_description"":""angular, bird like, could be a microscope""}","","","","","stimuli/79.jpg","medium","NaN","angular, bird like, could be a microscope","7","",""
+"","27296","survey-text","10","2.0.0","236759","pcvorlv6uv5","","","","{""image_description"":""looks like a sitting bird, base with a triangular tail on the right and a triangular head int he middle""}","","","","","stimuli/71.jpg","medium","NaN","looks like a sitting bird, base with a triangular tail on the right and a triangular head int he middle","20","",""
+"","13918","survey-text","11","2.0.0","250681","pcvorlv6uv5","","","","{""image_description"":""triangle with a groove ont he bottom""}","","","","","stimuli/39.jpg","easy","NaN","triangle with a groove ont he bottom","7","",""
+"","17337","survey-text","12","2.0.0","268021","pcvorlv6uv5","","","","{""image_description"":""5 sides, askew trapizoid""}","","","","","stimuli/15.jpg","easy","NaN","5 sides, askew trapizoid","4","",""
+"","27864","survey-text","13","2.0.0","295888","pcvorlv6uv5","","","","{""image_description"":""very angular, many triangles pushed together, \""y\"" shaped""}","","","","","stimuli/127.jpg","hard","NaN","very angular, many triangles pushed together, ""y"" shaped","8","",""
+"","42215","survey-text","14","2.0.0","338105","pcvorlv6uv5","","","","{""image_description"":""very angular, a square with many triangles taken out of it at all angles  ""}","","","","","stimuli/159.jpg","hard","NaN","very angular, a square with many triangles taken out of it at all angles  ","14","",""
+"","32489","survey-text","15","2.0.0","370597","pcvorlv6uv5","","","","{""image_description"":""long diagonal rectangle, with  a triangle on the left . Anchor shaped""}","","","","","stimuli/103.jpg","medium","NaN","long diagonal rectangle, with  a triangle on the left . Anchor shaped","12","",""
+"","52167","survey-text","16","2.0.0","422767","pcvorlv6uv5","","","","{""image_description"":""very square, backwards \""c\"", blocky""}","","","","","stimuli/87.jpg","medium","NaN","very square, backwards ""c"", blocky","5","",""
+"","12585","survey-text","17","2.0.0","435355","pcvorlv6uv5","","","","{""image_description"":""legs with half of a right arm""}","","","","","stimuli/143.jpg","hard","NaN","legs with half of a right arm","7","",""
+"","63406","survey-text","18","2.0.0","498764","pcvorlv6uv5","","","","{""image_description"":""12 sided. squareish base with the bottom of a triangle cut out of the top, triangle sticking otu of bottom and right side  ""}","","","","","stimuli/63.jpg","medium","NaN","12 sided. squareish base with the bottom of a triangle cut out of the top, triangle sticking otu of bottom and right side  ","23","",""
+"","48432","survey-text","19","2.0.0","547200","pcvorlv6uv5","","","","{""image_description"":""very smooth, hourglass figure, skirts outward at bottom and top with small grooves on the bottom and large grooves on the top""}","","","","","stimuli/151.jpg","hard","NaN","very smooth, hourglass figure, skirts outward at bottom and top with small grooves on the bottom and large grooves on the top","22","",""
+"","56807","survey-text","20","2.0.0","604010","pcvorlv6uv5","","","","{""image_description"":""a  capital J with a think top line and hook, also another small arm jutting to the right""}","","","","","stimuli/135.jpg","hard","NaN","a  capital J with a think top line and hook, also another small arm jutting to the right","18","",""
+"","40979","survey-text","21","2.0.0","644991","pcvorlv6uv5","","","","{""image_description"":""two trapizoids intersecting at the top, left is smaller than right, left has a small triangle coming out of the top base""}","","","","","stimuli/23.jpg","easy","NaN","two trapizoids intersecting at the top, left is smaller than right, left has a small triangle coming out of the top base","22","",""
+"","47920","survey-text","22","2.0.0","692914","pcvorlv6uv5","","","","{""image_description"":""trapizoid with slanted top ""}","","","","","stimuli/7.jpg","easy","NaN","trapizoid with slanted top ","4","",""
+"","83105","survey-text","23","2.0.0","776021","pcvorlv6uv5","","","","{""image_description"":""lots of angles, right side is like a bird with a triangle, then a beak on the left and wings below. Right is a large triangle with a trapizoid sticking out of the left side ""}","","","","","stimuli/119.jpg","hard","NaN","lots of angles, right side is like a bird with a triangle, then a beak on the left and wings below. Right is a large triangle with a trapizoid sticking out of the left side ","35","",""
+"","10884","survey-text","24","2.0.0","786909","pcvorlv6uv5","","","","{""participant_major"":""Cognitive Behvioral Neuroscience""}","","","","","","","","","","",""
+"","2272","survey-multi-choice","25","2.2.0","789185","pcvorlv6uv5","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

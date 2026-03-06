@@ -1,0 +1,39 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","13044","fullscreen","0","null","14059","pqjqugmkws8","","","","","","","","","","","","","","",""
+"","4248","html-keyboard-response","1","2.0.0","18309","pqjqugmkws8","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","3068","survey-text","2","2.0.0","21382","pqjqugmkws8","","","","{""participant_id"":""jaguar""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","22443","pqjqugmkws8","","","","","false","[]","[]","[]","","","","","","",""
+"","42968","survey-text","4","2.0.0","65416","pqjqugmkws8","","","","{""image_description"":""A jagged, multi-part shape that has a bunch of sharp angles, that form three main sections.""}","","","","","stimuli/126.jpg","hard","NaN","A jagged, multi-part shape that has a bunch of sharp angles, that form three main sections.","16","",""
+"","38196","survey-text","5","2.0.0","103616","pqjqugmkws8","","","","{""image_description"":""A shape that kind of looks like a little two legged creature with one large claw.""}","","","","","stimuli/118.jpg","hard","NaN","A shape that kind of looks like a little two legged creature with one large claw.","16","",""
+"","22412","survey-text","6","2.0.0","126031","pqjqugmkws8","","","","{""image_description"":""An uneven trapezoid that is taller on the right side.""}","","","","","stimuli/6.jpg","easy","NaN","An uneven trapezoid that is taller on the right side.","10","",""
+"","25668","survey-text","7","2.0.0","151703","pqjqugmkws8","","","","{""image_description"":""A shape that has the negative space of a jumping dog on the left.\n""}","","","","","stimuli/150.jpg","hard","NaN","A shape that has the negative space of a jumping dog on the left.
+","14","",""
+"","21507","survey-text","8","2.0.0","173213","pqjqugmkws8","","","","{""image_description"":""An abstract dog with a big head.""}","","","","","stimuli/110.jpg","hard","NaN","An abstract dog with a big head.","7","",""
+"","39659","survey-text","9","2.0.0","212875","pqjqugmkws8","","","","{""image_description"":""A seven sided shape that looks almost like a distorted quadrilateral with a triangle sticking out of it.""}","","","","","stimuli/22.jpg","easy","NaN","A seven sided shape that looks almost like a distorted quadrilateral with a triangle sticking out of it.","18","",""
+"","28455","survey-text","10","2.0.0","241333","pqjqugmkws8","","","","{""image_description"":""A shape with multiple portruding secitons with points turned inward.""}","","","","","stimuli/94.jpg","medium","NaN","A shape with multiple portruding secitons with points turned inward.","10","",""
+"","28129","survey-text","11","2.0.0","269464","pqjqugmkws8","","","","{""image_description"":""One main chevron like shape with a quadrilateral sticking out the tip.""}","","","","","stimuli/54.jpg","medium","NaN","One main chevron like shape with a quadrilateral sticking out the tip.","12","",""
+"","17141","survey-text","12","2.0.0","286609","pqjqugmkws8","","","","{""image_description"":""A think V like shape with a flat bottom.""}","","","","","stimuli/30.jpg","easy","NaN","A think V like shape with a flat bottom.","9","",""
+"","14347","survey-text","13","2.0.0","300958","pqjqugmkws8","","","","{""image_description"":""A spiky shape that looks like teeth.""}","","","","","stimuli/134.jpg","hard","NaN","A spiky shape that looks like teeth.","7","",""
+"","21395","survey-text","14","2.0.0","322356","pqjqugmkws8","","","","{""image_description"":""A shape that looks like the silhouette of a three bladed fan.""}","","","","","stimuli/78.jpg","medium","NaN","A shape that looks like the silhouette of a three bladed fan.","12","",""
+"","11243","survey-text","15","2.0.0","333601","pqjqugmkws8","","","","{""image_description"":""Lowercase e without the hole in the middle.""}","","","","","stimuli/62.jpg","medium","NaN","Lowercase e without the hole in the middle.","8","",""
+"","180646","survey-text","16","2.0.0","514250","pqjqugmkws8","","","","{""image_description"":""A jagged shape with four main protruding parts.""}","","","","","stimuli/142.jpg","hard","NaN","A jagged shape with four main protruding parts.","8","",""
+"","30098","survey-text","17","2.0.0","544352","pqjqugmkws8","","","","{""image_description"":""A sharp shape that looks like a side profile of an open mouth, like a fish that's about to take a bite.""}","","","","","stimuli/102.jpg","medium","NaN","A sharp shape that looks like a side profile of an open mouth, like a fish that's about to take a bite.","22","",""
+"","29253","survey-text","18","2.0.0","573607","pqjqugmkws8","","","","{""image_description"":""A trapezoid like shape with a small triangle sticking out the side and a triangle cut out of it right below.""}","","","","","stimuli/38.jpg","easy","NaN","A trapezoid like shape with a small triangle sticking out the side and a triangle cut out of it right below.","21","",""
+"","26261","survey-text","19","2.0.0","599871","pqjqugmkws8","","","","{""image_description"":""A five-sided shape that looks like a quadrilatera with one small side taken out.""}","","","","","stimuli/14.jpg","easy","NaN","A five-sided shape that looks like a quadrilatera with one small side taken out.","14","",""
+"","37511","survey-text","20","2.0.0","637384","pqjqugmkws8","","","","{""image_description"":""Two long sides with a jagged connector between them.""}","","","","","stimuli/46.jpg","easy","NaN","Two long sides with a jagged connector between them.","9","",""
+"","13327","survey-text","21","2.0.0","650715","pqjqugmkws8","","","","{""image_description"":""A heart like shape with a bait hook on the bottom.""}","","","","","stimuli/70.jpg","medium","NaN","A heart like shape with a bait hook on the bottom.","11","",""
+"","37286","survey-text","22","2.0.0","688003","pqjqugmkws8","","","","{""image_description"":""A sharp shape that looks like a drill or crystal with wings.""}","","","","","stimuli/86.jpg","medium","NaN","A sharp shape that looks like a drill or crystal with wings.","12","",""
+"","30527","survey-text","23","2.0.0","718532","pqjqugmkws8","","","","{""image_description"":""A large, multifaceted shape with four main sections coming out of the center.""}","","","","","stimuli/158.jpg","hard","NaN","A large, multifaceted shape with four main sections coming out of the center.","13","",""
+"","7307","survey-text","24","2.0.0","725842","pqjqugmkws8","","","","{""participant_major"":""Cognitive science, design and interaction""}","","","","","","","","","","",""
+"","1522","survey-multi-choice","25","2.2.0","727368","pqjqugmkws8","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

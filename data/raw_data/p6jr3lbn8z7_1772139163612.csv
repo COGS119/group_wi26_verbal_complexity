@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","6651","fullscreen","0","null","7656","p6jr3lbn8z7","","","","","","","","","","","","","","",""
+"","9822","html-keyboard-response","1","2.0.0","17480","p6jr3lbn8z7","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2486","survey-text","2","2.0.0","19972","p6jr3lbn8z7","","","","{""participant_id"":""sheep""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","20266","p6jr3lbn8z7","","","","","false","[]","[]","[]","","","","","","",""
+"","7317","survey-text","4","2.0.0","27600","p6jr3lbn8z7","","","","{""image_description"":""pointy heart""}","","","","","stimuli/30.jpg","easy","NaN","pointy heart","2","",""
+"","12667","survey-text","5","2.0.0","40272","p6jr3lbn8z7","","","","{""image_description"":""lopsided pentagon""}","","","","","stimuli/14.jpg","easy","NaN","lopsided pentagon","2","",""
+"","10512","survey-text","6","2.0.0","50789","p6jr3lbn8z7","","","","{""image_description"":""crazy pointy bird""}","","","","","stimuli/126.jpg","hard","NaN","crazy pointy bird","3","",""
+"","4281","survey-text","7","2.0.0","55078","p6jr3lbn8z7","","","","{""image_description"":""rabbit""}","","","","","stimuli/150.jpg","hard","NaN","rabbit","1","",""
+"","7355","survey-text","8","2.0.0","62439","p6jr3lbn8z7","","","","{""image_description"":""pointy blob""}","","","","","stimuli/158.jpg","hard","NaN","pointy blob","2","",""
+"","7381","survey-text","9","2.0.0","69828","p6jr3lbn8z7","","","","{""image_description"":""blob""}","","","","","stimuli/94.jpg","medium","NaN","blob","1","",""
+"","9739","survey-text","10","2.0.0","79576","p6jr3lbn8z7","","","","{""image_description"":""gloved hand""}","","","","","stimuli/62.jpg","medium","NaN","gloved hand","2","",""
+"","15341","survey-text","11","2.0.0","94927","p6jr3lbn8z7","","","","{""image_description"":""sideways bird, beak is the two identical points""}","","","","","stimuli/118.jpg","hard","NaN","sideways bird, beak is the two identical points","8","",""
+"","5273","survey-text","12","2.0.0","100210","p6jr3lbn8z7","","","","{""image_description"":""weird blob""}","","","","","stimuli/38.jpg","easy","NaN","weird blob","2","",""
+"","14025","survey-text","13","2.0.0","114241","p6jr3lbn8z7","","","","{""image_description"":""lopsided square, one edge is longer""}","","","","","stimuli/6.jpg","easy","NaN","lopsided square, one edge is longer","6","",""
+"","19961","survey-text","14","2.0.0","134209","p6jr3lbn8z7","","","","{""image_description"":""almost identical, spiderman-esque logo""}","","","","","stimuli/86.jpg","medium","NaN","almost identical, spiderman-esque logo","4","",""
+"","4258","survey-text","15","2.0.0","138477","p6jr3lbn8z7","","","","{""image_description"":""witch on broom""}","","","","","stimuli/142.jpg","hard","NaN","witch on broom","3","",""
+"","6442","survey-text","16","2.0.0","144928","p6jr3lbn8z7","","","","{""image_description"":""someone has a long nose""}","","","","","stimuli/46.jpg","easy","NaN","someone has a long nose","5","",""
+"","10007","survey-text","17","2.0.0","154944","p6jr3lbn8z7","","","","{""image_description"":""someone is getting punched in the gut""}","","","","","stimuli/102.jpg","medium","NaN","someone is getting punched in the gut","7","",""
+"","10208","survey-text","18","2.0.0","165160","p6jr3lbn8z7","","","","{""image_description"":""arrow pointing down""}","","","","","stimuli/54.jpg","medium","NaN","arrow pointing down","3","",""
+"","6425","survey-text","19","2.0.0","171594","p6jr3lbn8z7","","","","{""image_description"":""pointy blob""}","","","","","stimuli/78.jpg","medium","NaN","pointy blob","2","",""
+"","6308","survey-text","20","2.0.0","177911","p6jr3lbn8z7","","","","{""image_description"":""lopsided blob""}","","","","","stimuli/134.jpg","hard","NaN","lopsided blob","2","",""
+"","18891","survey-text","21","2.0.0","196810","p6jr3lbn8z7","","","","{""image_description"":""for courners, bent square""}","","","","","stimuli/22.jpg","easy","NaN","for courners, bent square","4","",""
+"","14759","survey-text","22","2.0.0","211577","p6jr3lbn8z7","","","","{""image_description"":""floppy hat with one edge lifted up""}","","","","","stimuli/70.jpg","medium","NaN","floppy hat with one edge lifted up","7","",""
+"","9457","survey-text","23","2.0.0","221039","p6jr3lbn8z7","","","","{""image_description"":""dog with larger front legs""}","","","","","stimuli/110.jpg","hard","NaN","dog with larger front legs","5","",""
+"","3931","survey-text","24","2.0.0","224972","p6jr3lbn8z7","","","","{""participant_major"":""psychology""}","","","","","","","","","","",""
+"","2414","survey-multi-choice","25","2.2.0","227389","p6jr3lbn8z7","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

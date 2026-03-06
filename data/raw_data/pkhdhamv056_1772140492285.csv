@@ -1,0 +1,39 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","160391","fullscreen","0","null","161398","pkhdhamv056","","","","","","","","","","","","","","",""
+"","8115","html-keyboard-response","1","2.0.0","169517","pkhdhamv056","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","1795","survey-text","2","2.0.0","171327","pkhdhamv056","","","","{""participant_id"":""lamb""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","171782","pkhdhamv056","","","","","false","[]","[]","[]","","","","","","",""
+"","5472","survey-text","4","2.0.0","177274","pkhdhamv056","","","","{""image_description"":""arrow sideways""}","","","","","stimuli/28.jpg","easy","NaN","arrow sideways","2","",""
+"","8166","survey-text","5","2.0.0","185442","pkhdhamv056","","","","{""image_description"":""A persons face / a state\n""}","","","","","stimuli/44.jpg","easy","NaN","A persons face / a state
+","6","",""
+"","9612","survey-text","6","2.0.0","195058","pkhdhamv056","","","","{""image_description"":""broken maple leaf""}","","","","","stimuli/116.jpg","hard","NaN","broken maple leaf","3","",""
+"","4930","survey-text","7","2.0.0","199991","pkhdhamv056","","","","{""image_description"":""sea horse""}","","","","","stimuli/140.jpg","hard","NaN","sea horse","2","",""
+"","11997","survey-text","8","2.0.0","211992","pkhdhamv056","","","","{""image_description"":""funky ohio""}","","","","","stimuli/76.jpg","medium","NaN","funky ohio","2","",""
+"","6312","survey-text","9","2.0.0","218306","pkhdhamv056","","","","{""image_description"":""two shoes""}","","","","","stimuli/156.jpg","hard","NaN","two shoes","2","",""
+"","4953","survey-text","10","2.0.0","223260","pkhdhamv056","","","","{""image_description"":""person with big nose""}","","","","","stimuli/36.jpg","easy","NaN","person with big nose","4","",""
+"","5730","survey-text","11","2.0.0","228993","pkhdhamv056","","","","{""image_description"":""explosion""}","","","","","stimuli/132.jpg","hard","NaN","explosion","1","",""
+"","14981","survey-text","12","2.0.0","243978","pkhdhamv056","","","","{""image_description"":""A dog barking (just the head0""}","","","","","stimuli/124.jpg","hard","NaN","A dog barking (just the head0","6","",""
+"","5813","survey-text","13","2.0.0","249794","pkhdhamv056","","","","{""image_description"":""A dragon head""}","","","","","stimuli/92.jpg","medium","NaN","A dragon head","3","",""
+"","5230","survey-text","14","2.0.0","255027","pkhdhamv056","","","","{""image_description"":""A frog head""}","","","","","stimuli/60.jpg","medium","NaN","A frog head","3","",""
+"","2829","survey-text","15","2.0.0","257858","pkhdhamv056","","","","{""image_description"":""triangle""}","","","","","stimuli/4.jpg","easy","NaN","triangle","1","",""
+"","7401","survey-text","16","2.0.0","265261","pkhdhamv056","","","","{""image_description"":""A Phoenix ""}","","","","","stimuli/148.jpg","hard","NaN","A Phoenix ","2","",""
+"","6260","survey-text","17","2.0.0","271524","pkhdhamv056","","","","{""image_description"":""A state""}","","","","","stimuli/68.jpg","medium","NaN","A state","2","",""
+"","19165","survey-text","18","2.0.0","290692","pkhdhamv056","","","","{""image_description"":""Not sure, maybe an axe, coming out of a tree or wall""}","","","","","stimuli/100.jpg","medium","NaN","Not sure, maybe an axe, coming out of a tree or wall","12","",""
+"","20814","survey-text","19","2.0.0","311509","pkhdhamv056","","","","{""image_description"":""a vacuum on the left and a pickaxe on the right""}","","","","","stimuli/108.jpg","hard","NaN","a vacuum on the left and a pickaxe on the right","11","",""
+"","20766","survey-text","20","2.0.0","332277","pkhdhamv056","","","","{""image_description"":""a sardine from spongebob talking""}","","","","","stimuli/52.jpg","easy","NaN","a sardine from spongebob talking","5","",""
+"","3997","survey-text","21","2.0.0","336277","pkhdhamv056","","","","{""image_description"":""nevada ""}","","","","","stimuli/12.jpg","easy","NaN","nevada ","1","",""
+"","11914","survey-text","22","2.0.0","348194","pkhdhamv056","","","","{""image_description"":""a kettle that is open for water""}","","","","","stimuli/84.jpg","medium","NaN","a kettle that is open for water","7","",""
+"","3544","survey-text","23","2.0.0","351741","pkhdhamv056","","","","{""image_description"":""a state""}","","","","","stimuli/20.jpg","easy","NaN","a state","2","",""
+"","2794","survey-text","24","2.0.0","354537","pkhdhamv056","","","","{""participant_major"":""COGS - ML""}","","","","","","","","","","",""
+"","1500","survey-multi-choice","25","2.2.0","356042","pkhdhamv056","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

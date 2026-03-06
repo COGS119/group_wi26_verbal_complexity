@@ -1,0 +1,47 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1923","fullscreen","0","null","2943","prfuy05u3yl","","","","","","","","","","","","","","",""
+"","20213","html-keyboard-response","1","2.0.0","23159","prfuy05u3yl","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2849","survey-text","2","2.0.0","26045","prfuy05u3yl","","","","{""participant_id"":""tiger""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","26282","prfuy05u3yl","","","","","false","[]","[]","[]","","","","","","",""
+"","95411","survey-text","4","2.0.0","121747","prfuy05u3yl","","","","{""image_description"":""14 lines, jagged and sharp turning points on the top left and bottom right. looks like an outline of a my little petshop toy/or an animal like dog/cat tilting head ""}","","","","","stimuli/57.jpg","medium","NaN","14 lines, jagged and sharp turning points on the top left and bottom right. looks like an outline of a my little petshop toy/or an animal like dog/cat tilting head ","30","",""
+"","118792","survey-text","5","2.0.0","240548","prfuy05u3yl","","","","{""image_description"":""6 sharp turning points, can almost resemble transformer signal ""}","","","","","stimuli/89.jpg","medium","NaN","6 sharp turning points, can almost resemble transformer signal ","9","",""
+"","185041","survey-text","6","2.0.0","425593","prfuy05u3yl","","","","{""image_description"":""looks like a upright type of paintball gn, with an air brush insert at top.\nmix of triangles, almost squares and semi pentagon""}","","","","","stimuli/153.jpg","hard","NaN","looks like a upright type of paintball gn, with an air brush insert at top.
+mix of triangles, almost squares and semi pentagon","23","",""
+"","224215","survey-text","7","2.0.0","649811","prfuy05u3yl","","","","{""image_description"":""what a sitting pterodactyl would look like if it had two horns, also reminds me of the red animal from Hercules. \nPointed and jagged edges oriented towards the left/up""}","","","","","stimuli/97.jpg","medium","NaN","what a sitting pterodactyl would look like if it had two horns, also reminds me of the red animal from Hercules. 
+Pointed and jagged edges oriented towards the left/up","29","",""
+"","105565","survey-text","8","2.0.0","755387","prfuy05u3yl","","","","{""image_description"":""4 sides, two lines are almost parallel with the bottom being longer and slightly angled. Left and right lines can be considered mirrored orientation but still one is slightly longer/angled""}","","","","","stimuli/9.jpg","easy","NaN","4 sides, two lines are almost parallel with the bottom being longer and slightly angled. Left and right lines can be considered mirrored orientation but still one is slightly longer/angled","30","",""
+"","334982","survey-text","9","2.0.0","1090375","prfuy05u3yl","","","","{""image_description"":""looks like a broken text box section you would see with pamphlets or comic books\n8 straight turns with 3 of them making up what could be a triangle""}","","","","","stimuli/33.jpg","easy","NaN","looks like a broken text box section you would see with pamphlets or comic books
+8 straight turns with 3 of them making up what could be a triangle","29","",""
+"","245196","survey-text","10","2.0.0","1335583","prfuy05u3yl","","","","{""image_description"":""a flying animal which has a pointed head (top right), with open wings and a tail(bottom left) fluffed/spread tail. \n""}","","","","","stimuli/137.jpg","hard","NaN","a flying animal which has a pointed head (top right), with open wings and a tail(bottom left) fluffed/spread tail. 
+","19","",""
+"","336789","survey-text","11","2.0.0","1672374","prfuy05u3yl","","","","{""image_description"":""right triangle shifted some type of degree, 30* 60*?\n""}","","","","","stimuli/1.jpg","easy","NaN","right triangle shifted some type of degree, 30* 60*?
+","9","",""
+"","54800","survey-text","12","2.0.0","1727178","prfuy05u3yl","","","","{""image_description"":""two pointed triangle ends with last end being almost of a rectangle""}","","","","","stimuli/25.jpg","easy","NaN","two pointed triangle ends with last end being almost of a rectangle","12","",""
+"","60915","survey-text","13","2.0.0","1788096","prfuy05u3yl","","","","{""image_description"":""shape of a vulture yelling, or a snail facing left \nclaw like head shape""}","","","","","stimuli/113.jpg","hard","NaN","shape of a vulture yelling, or a snail facing left 
+claw like head shape","14","",""
+"","137974","survey-text","14","2.0.0","1926072","prfuy05u3yl","","","","{""image_description"":""the yellow bird from rio facing right.\nmetal cap you see on glass bottles at the top of the shape.\npointed triangle nose under, body of animal with wings to the back""}","","","","","stimuli/65.jpg","medium","NaN","the yellow bird from rio facing right.
+metal cap you see on glass bottles at the top of the shape.
+pointed triangle nose under, body of animal with wings to the back","32","",""
+"","121237","survey-text","15","2.0.0","2047314","prfuy05u3yl","","","","{""image_description"":""shifted head to the left, you can see an outline of a mask with pointed nose and sharp eyes and a feathered top (2) ""}","","","","","stimuli/129.jpg","hard","NaN","shifted head to the left, you can see an outline of a mask with pointed nose and sharp eyes and a feathered top (2) ","24","",""
+"","101025","survey-text","16","2.0.0","2148341","prfuy05u3yl","","","","{""image_description"":""some dwarf with a long nose sitting in shame with hands tucked in, feet (bottom left) together, and a tail pointing up(bottom right)\n""}","","","","","stimuli/105.jpg","medium","NaN","some dwarf with a long nose sitting in shame with hands tucked in, feet (bottom left) together, and a tail pointing up(bottom right)
+","23","",""
+"","94135","survey-text","17","2.0.0","2242478","prfuy05u3yl","","","","{""image_description"":""what looks like a graphic design of the letter H, for a metal band wanting an edgy and blunt look. ""}","","","","","stimuli/121.jpg","hard","NaN","what looks like a graphic design of the letter H, for a metal band wanting an edgy and blunt look. ","20","",""
+"","76852","survey-text","18","2.0.0","2319332","prfuy05u3yl","","","","{""image_description"":""the red animal from Hercules kneeling towards the ground with one hand pointing away. Can also be like the super hero landing on ground shown in movies like spiderman. ""}","","","","","stimuli/145.jpg","hard","NaN","the red animal from Hercules kneeling towards the ground with one hand pointing away. Can also be like the super hero landing on ground shown in movies like spiderman. ","29","",""
+"","37736","survey-text","19","2.0.0","2357071","prfuy05u3yl","","","","{""image_description"":""the top head of yoda but his body gets lost jumping worlds resulting in jagged distortion""}","","","","","stimuli/81.jpg","medium","NaN","the top head of yoda but his body gets lost jumping worlds resulting in jagged distortion","16","",""
+"","29031","survey-text","20","2.0.0","2386104","prfuy05u3yl","","","","{""image_description"":""bird rock: a bird sitting on top of a rock looking down""}","","","","","stimuli/49.jpg","easy","NaN","bird rock: a bird sitting on top of a rock looking down","12","",""
+"","31283","survey-text","21","2.0.0","2417390","prfuy05u3yl","","","","{""image_description"":""an angry bunny with a really strong curled up bicep/arm ""}","","","","","stimuli/73.jpg","medium","NaN","an angry bunny with a really strong curled up bicep/arm ","10","",""
+"","67251","survey-text","22","2.0.0","2484644","prfuy05u3yl","","","","{""image_description"":""like one of the simpsons got the front of their face/forehead sliced off, and is left with mouth open in shock. ""}","","","","","stimuli/41.jpg","easy","NaN","like one of the simpsons got the front of their face/forehead sliced off, and is left with mouth open in shock. ","21","",""
+"","23950","survey-text","23","2.0.0","2508596","prfuy05u3yl","","","","{""image_description"":""5 lined shape, with no equal size lines""}","","","","","stimuli/17.jpg","easy","NaN","5 lined shape, with no equal size lines","8","",""
+"","14307","survey-text","24","2.0.0","2522918","prfuy05u3yl","","","","{""participant_major"":""cognitive and behavioral neuroscience""}","","","","","","","","","","",""
+"","1930","survey-multi-choice","25","2.2.0","2524869","prfuy05u3yl","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

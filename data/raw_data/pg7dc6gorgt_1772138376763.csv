@@ -1,0 +1,40 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","2862","fullscreen","0","null","3871","pg7dc6gorgt","","","","","","","","","","","","","","",""
+"","47207","html-keyboard-response","1","2.0.0","51080","pg7dc6gorgt","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","5225","survey-text","2","2.0.0","56310","pg7dc6gorgt","","","","{""participant_id"":""cub""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","56540","pg7dc6gorgt","","","","","false","[]","[]","[]","","","","","","",""
+"","100728","survey-text","4","2.0.0","157275","pg7dc6gorgt","","","","{""image_description"":""this looks like a bird that is looking back at it's tail or it is the Sonic(The cartoon character).""}","","","","","stimuli/131.jpg","hard","NaN","this looks like a bird that is looking back at it's tail or it is the Sonic(The cartoon character).","19","",""
+"","60853","survey-text","5","2.0.0","218132","pg7dc6gorgt","","","","{""image_description"":""It looks like a comb with three three stripes""}","","","","","stimuli/59.jpg","medium","NaN","It looks like a comb with three three stripes","9","",""
+"","18543","survey-text","6","2.0.0","236678","pg7dc6gorgt","","","","{""image_description"":""looks like a chicken wing\n""}","","","","","stimuli/43.jpg","easy","NaN","looks like a chicken wing
+","5","",""
+"","39968","survey-text","7","2.0.0","276650","pg7dc6gorgt","","","","{""image_description"":""this looks like a floor plan for a building""}","","","","","stimuli/107.jpg","hard","NaN","this looks like a floor plan for a building","9","",""
+"","49368","survey-text","8","2.0.0","326022","pg7dc6gorgt","","","","{""image_description"":""this looks like a person waving or a stone with many strikes and sharp""}","","","","","stimuli/147.jpg","hard","NaN","this looks like a person waving or a stone with many strikes and sharp","14","",""
+"","82480","survey-text","9","2.0.0","408508","pg7dc6gorgt","","","","{""image_description"":""this is a polygon with a tail""}","","","","","stimuli/91.jpg","medium","NaN","this is a polygon with a tail","7","",""
+"","6555","survey-text","10","2.0.0","415068","pg7dc6gorgt","","","","{""image_description"":""this looks like a bird""}","","","","","stimuli/75.jpg","medium","NaN","this looks like a bird","5","",""
+"","14468","survey-text","11","2.0.0","429538","pg7dc6gorgt","","","","{""image_description"":""this is a square with a fin""}","","","","","stimuli/67.jpg","medium","NaN","this is a square with a fin","7","",""
+"","52726","survey-text","12","2.0.0","482267","pg7dc6gorgt","","","","{""image_description"":""this is a polygon with many strange protrusion""}","","","","","stimuli/99.jpg","medium","NaN","this is a polygon with many strange protrusion","8","",""
+"","26265","survey-text","13","2.0.0","508535","pg7dc6gorgt","","","","{""image_description"":""this is another polygon with a shark spike and many strange protrusion""}","","","","","stimuli/123.jpg","hard","NaN","this is another polygon with a shark spike and many strange protrusion","12","",""
+"","16895","survey-text","14","2.0.0","525432","pg7dc6gorgt","","","","{""image_description"":""this is a polygon with many weird protrusion""}","","","","","stimuli/139.jpg","hard","NaN","this is a polygon with many weird protrusion","8","",""
+"","26826","survey-text","15","2.0.0","552260","pg7dc6gorgt","","","","{""image_description"":""This looks like a cow horns\n""}","","","","","stimuli/83.jpg","medium","NaN","This looks like a cow horns
+","6","",""
+"","16704","survey-text","16","2.0.0","568965","pg7dc6gorgt","","","","{""image_description"":""this looks like the tail of Pikachu""}","","","","","stimuli/19.jpg","easy","NaN","this looks like the tail of Pikachu","7","",""
+"","57890","survey-text","17","2.0.0","626858","pg7dc6gorgt","","","","{""image_description"":""this is a polygon with a two sharp peak and horns""}","","","","","stimuli/51.jpg","easy","NaN","this is a polygon with a two sharp peak and horns","11","",""
+"","5294","survey-text","18","2.0.0","632155","pg7dc6gorgt","","","","{""image_description"":""triangle""}","","","","","stimuli/3.jpg","easy","NaN","triangle","1","",""
+"","7162","survey-text","19","2.0.0","639319","pg7dc6gorgt","","","","{""image_description"":""polygon with a triangle""}","","","","","stimuli/115.jpg","hard","NaN","polygon with a triangle","4","",""
+"","19038","survey-text","20","2.0.0","658360","pg7dc6gorgt","","","","{""image_description"":""octagon""}","","","","","stimuli/27.jpg","easy","NaN","octagon","1","",""
+"","11054","survey-text","21","2.0.0","669416","pg7dc6gorgt","","","","{""image_description"":""pentagon""}","","","","","stimuli/11.jpg","easy","NaN","pentagon","1","",""
+"","8197","survey-text","22","2.0.0","677615","pg7dc6gorgt","","","","{""image_description"":""almost a square""}","","","","","stimuli/35.jpg","easy","NaN","almost a square","3","",""
+"","13795","survey-text","23","2.0.0","691413","pg7dc6gorgt","","","","{""image_description"":""polygon with many weird shapes""}","","","","","stimuli/155.jpg","hard","NaN","polygon with many weird shapes","5","",""
+"","16439","survey-text","24","2.0.0","707853","pg7dc6gorgt","","","","{""participant_major"":""Cognitive Science (ML)""}","","","","","","","","","","",""
+"","4418","survey-multi-choice","25","2.2.0","712275","pg7dc6gorgt","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

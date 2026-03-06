@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1580","fullscreen","0","null","2588","pt19oukc0sm","","","","","","","","","","","","","","",""
+"","4479","html-keyboard-response","1","2.0.0","7069","pt19oukc0sm","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>","Enter","","","","","","","","","","",""
+"","27532","survey-text","2","2.0.0","34606","pt19oukc0sm","","","","{""participant_id"":""hamster""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","36753","pt19oukc0sm","","","","","false","[]","[]","[]","","","","","","",""
+"","12580","survey-text","4","2.0.0","49343","pt19oukc0sm","","","","{""image_description"":""Upside down swan""}","","","","","stimuli/42.jpg","easy","NaN","Upside down swan","3","",""
+"","12212","survey-text","5","2.0.0","61562","pt19oukc0sm","","","","{""image_description"":""avengers spaceship""}","","","","","stimuli/74.jpg","medium","NaN","avengers spaceship","2","",""
+"","20891","survey-text","6","2.0.0","82457","pt19oukc0sm","","","","{""image_description"":""abstract art""}","","","","","stimuli/130.jpg","hard","NaN","abstract art","2","",""
+"","14441","survey-text","7","2.0.0","96906","pt19oukc0sm","","","","{""image_description"":""Windmill""}","","","","","stimuli/122.jpg","hard","NaN","Windmill","1","",""
+"","36990","survey-text","8","2.0.0","133903","pt19oukc0sm","","","","{""image_description"":""cup falling and spilling something""}","","","","","stimuli/114.jpg","hard","NaN","cup falling and spilling something","5","",""
+"","10821","survey-text","9","2.0.0","144730","pt19oukc0sm","","","","{""image_description"":""country""}","","","","","stimuli/50.jpg","easy","NaN","country","1","",""
+"","3933","survey-text","10","2.0.0","148669","pt19oukc0sm","","","","{""image_description"":""triangle""}","","","","","stimuli/2.jpg","easy","NaN","triangle","1","",""
+"","16575","survey-text","11","2.0.0","165248","pt19oukc0sm","","","","{""image_description"":""explosion""}","","","","","stimuli/66.jpg","medium","NaN","explosion","1","",""
+"","13522","survey-text","12","2.0.0","178775","pt19oukc0sm","","","","{""image_description"":""baseball base""}","","","","","stimuli/18.jpg","easy","NaN","baseball base","2","",""
+"","26786","survey-text","13","2.0.0","205565","pt19oukc0sm","","","","{""image_description"":""broken plate""}","","","","","stimuli/90.jpg","medium","NaN","broken plate","2","",""
+"","7316","survey-text","14","2.0.0","212888","pt19oukc0sm","","","","{""image_description"":""mountains""}","","","","","stimuli/34.jpg","easy","NaN","mountains","1","",""
+"","11184","survey-text","15","2.0.0","224083","pt19oukc0sm","","","","{""image_description"":""eagle or bird flying""}","","","","","stimuli/138.jpg","hard","NaN","eagle or bird flying","4","",""
+"","28435","survey-text","16","2.0.0","252524","pt19oukc0sm","","","","{""image_description"":""fake teeth/mask from the side ""}","","","","","stimuli/98.jpg","medium","NaN","fake teeth/mask from the side ","5","",""
+"","45413","survey-text","17","2.0.0","297942","pt19oukc0sm","","","","{""image_description"":""seems like an explosion of some sort ""}","","","","","stimuli/154.jpg","hard","NaN","seems like an explosion of some sort ","7","",""
+"","15269","survey-text","18","2.0.0","313216","pt19oukc0sm","","","","{""image_description"":""crumpled up piece of paper""}","","","","","stimuli/146.jpg","hard","NaN","crumpled up piece of paper","5","",""
+"","29154","survey-text","19","2.0.0","342375","pt19oukc0sm","","","","{""image_description"":""upside down triangle with imperfections right next to a house shape""}","","","","","stimuli/82.jpg","medium","NaN","upside down triangle with imperfections right next to a house shape","11","",""
+"","13719","survey-text","20","2.0.0","356099","pt19oukc0sm","","","","{""image_description"":""a leg looking shape missing the foot from the side""}","","","","","stimuli/58.jpg","medium","NaN","a leg looking shape missing the foot from the side","10","",""
+"","7390","survey-text","21","2.0.0","363493","pt19oukc0sm","","","","{""image_description"":""bird on a branch ""}","","","","","stimuli/106.jpg","medium","NaN","bird on a branch ","4","",""
+"","24077","survey-text","22","2.0.0","387576","pt19oukc0sm","","","","{""image_description"":""broken/chipped triangle""}","","","","","stimuli/26.jpg","easy","NaN","broken/chipped triangle","2","",""
+"","11259","survey-text","23","2.0.0","398842","pt19oukc0sm","","","","{""image_description"":""uneven square""}","","","","","stimuli/10.jpg","easy","NaN","uneven square","2","",""
+"","8733","survey-text","24","2.0.0","407580","pt19oukc0sm","","","","{""participant_major"":""Cognitive and Behavioral Neuroscience""}","","","","","","","","","","",""
+"","3082","survey-multi-choice","25","2.2.0","410669","pt19oukc0sm","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

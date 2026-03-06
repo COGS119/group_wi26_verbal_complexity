@@ -1,0 +1,40 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","3531","fullscreen","0","null","4537","pvwkxm87e6b","","","","","","","","","","","","","","",""
+"","1564","html-keyboard-response","1","2.0.0","6104","pvwkxm87e6b","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>","k","","","","","","","","","","",""
+"","8332","survey-text","2","2.0.0","14440","pvwkxm87e6b","","","","{""participant_id"":""antelope""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","14621","pvwkxm87e6b","","","","","false","[]","[]","[]","","","","","","",""
+"","116051","survey-text","4","2.0.0","130679","pvwkxm87e6b","","","","{""image_description"":""This shape is a combination of triangles, rectangles and squares\n""}","","","","","stimuli/37.jpg","easy","NaN","This shape is a combination of triangles, rectangles and squares
+","10","",""
+"","70537","survey-text","5","2.0.0","201222","pvwkxm87e6b","","","","{""image_description"":""This shape is a square that has a big triangle protruding inside of it. On the bottom left, there are two triangles that are protruding inside of it as well followed by a single left angle side ways protruding triangle on the bottom\n""}","","","","","stimuli/61.jpg","medium","NaN","This shape is a square that has a big triangle protruding inside of it. On the bottom left, there are two triangles that are protruding inside of it as well followed by a single left angle side ways protruding triangle on the bottom
+","43","",""
+"","39504","survey-text","6","2.0.0","240730","pvwkxm87e6b","","","","{""image_description"":""I see a tree. This shape is a combination of triangles and deformed rectangles""}","","","","","stimuli/157.jpg","hard","NaN","I see a tree. This shape is a combination of triangles and deformed rectangles","14","",""
+"","10579","survey-text","7","2.0.0","251314","pvwkxm87e6b","","","","{""image_description"":""Non perfect circle with a square bottom""}","","","","","stimuli/29.jpg","easy","NaN","Non perfect circle with a square bottom","7","",""
+"","18597","survey-text","8","2.0.0","269916","pvwkxm87e6b","","","","{""image_description"":""Square left bottom and triangles on the right side making it look like a evil hand""}","","","","","stimuli/85.jpg","medium","NaN","Square left bottom and triangles on the right side making it look like a evil hand","16","",""
+"","21390","survey-text","9","2.0.0","291311","pvwkxm87e6b","","","","{""image_description"":""This shape has a bunch of triangles and is not good""}","","","","","stimuli/141.jpg","hard","NaN","This shape has a bunch of triangles and is not good","11","",""
+"","22276","survey-text","10","2.0.0","313592","pvwkxm87e6b","","","","{""image_description"":""This shape looks like a square with one of its side wanting to form into a triangle""}","","","","","stimuli/21.jpg","easy","NaN","This shape looks like a square with one of its side wanting to form into a triangle","17","",""
+"","40325","survey-text","11","2.0.0","353921","pvwkxm87e6b","","","","{""image_description"":""This one looks like a eagle flying upwards. I see a small triangle at the top, shwoing signs of a beak. Then I also see its wings formed my other triangles and its feet by rectangles""}","","","","","stimuli/101.jpg","medium","NaN","This one looks like a eagle flying upwards. I see a small triangle at the top, shwoing signs of a beak. Then I also see its wings formed my other triangles and its feet by rectangles","36","",""
+"","16297","survey-text","12","2.0.0","370222","pvwkxm87e6b","","","","{""image_description"":""This shape I am not sure, it has a bunch of triangles and a couple rectangles""}","","","","","stimuli/149.jpg","hard","NaN","This shape I am not sure, it has a bunch of triangles and a couple rectangles","16","",""
+"","19327","survey-text","13","2.0.0","389553","pvwkxm87e6b","","","","{""image_description"":""This shape has 4 sides, and is a combination of a triangle and a rectangle""}","","","","","stimuli/13.jpg","easy","NaN","This shape has 4 sides, and is a combination of a triangle and a rectangle","15","",""
+"","77375","survey-text","14","2.0.0","466930","pvwkxm87e6b","","","","{""image_description"":""This shape ahs 14 sides and is a combination of lots of triangles, big squares""}","","","","","stimuli/77.jpg","medium","NaN","This shape ahs 14 sides and is a combination of lots of triangles, big squares","15","",""
+"","89508","survey-text","15","2.0.0","556443","pvwkxm87e6b","","","","{""image_description"":""This shape looks like a cactus, it has a total of 14 slides and is mostly triangles""}","","","","","stimuli/53.jpg","easy","NaN","This shape looks like a cactus, it has a total of 14 slides and is mostly triangles","17","",""
+"","6198","survey-text","16","2.0.0","562642","pvwkxm87e6b","","","","{""image_description"":""mostly triangles and squares""}","","","","","stimuli/109.jpg","hard","NaN","mostly triangles and squares","4","",""
+"","13911","survey-text","17","2.0.0","576555","pvwkxm87e6b","","","","{""image_description"":""sharp triangles, regular triangles, and squares""}","","","","","stimuli/117.jpg","hard","NaN","sharp triangles, regular triangles, and squares","6","",""
+"","5726","survey-text","18","2.0.0","582284","pvwkxm87e6b","","","","{""image_description"":""triangle, 3 sides""}","","","","","stimuli/5.jpg","easy","NaN","triangle, 3 sides","3","",""
+"","13677","survey-text","19","2.0.0","595964","pvwkxm87e6b","","","","{""image_description"":""triangles and squares, it looks like a whale""}","","","","","stimuli/125.jpg","hard","NaN","triangles and squares, it looks like a whale","8","",""
+"","29318","survey-text","20","2.0.0","625284","pvwkxm87e6b","","","","{""image_description"":""this shape has a total of 17 sides and is a combination of triangles and rectangles""}","","","","","stimuli/69.jpg","medium","NaN","this shape has a total of 17 sides and is a combination of triangles and rectangles","16","",""
+"","19772","survey-text","21","2.0.0","645060","pvwkxm87e6b","","","","{""image_description"":""this shape is not so sharp, is a bit more curvier and has still triangles and squares""}","","","","","stimuli/93.jpg","medium","NaN","this shape is not so sharp, is a bit more curvier and has still triangles and squares","17","",""
+"","12469","survey-text","22","2.0.0","657534","pvwkxm87e6b","","","","{""image_description"":""this shape is funky, has lots of squares and rectangles""}","","","","","stimuli/133.jpg","hard","NaN","this shape is funky, has lots of squares and rectangles","10","",""
+"","81438","survey-text","23","2.0.0","738975","pvwkxm87e6b","","","","{""image_description"":""this shape has a total of 11 sides and looks like a leaf""}","","","","","stimuli/45.jpg","easy","NaN","this shape has a total of 11 sides and looks like a leaf","13","",""
+"","10811","survey-text","24","2.0.0","749790","pvwkxm87e6b","","","","{""participant_major"":""cognitive science major, specializing in design and interaction""}","","","","","","","","","","",""
+"","2483","survey-multi-choice","25","2.2.0","752275","pvwkxm87e6b","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

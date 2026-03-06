@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1247","fullscreen","0","null","2252","pg9c1vrt9z9","","","","","","","","","","","","","","",""
+"","1410","html-keyboard-response","1","2.0.0","3664","pg9c1vrt9z9","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","3349","survey-text","2","2.0.0","7017","pg9c1vrt9z9","","","","{""participant_id"":""owl""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","7257","pg9c1vrt9z9","","","","","false","[]","[]","[]","","","","","","",""
+"","9785","survey-text","4","2.0.0","17050","pg9c1vrt9z9","","","","{""image_description"":""j""}","","","","","stimuli/98.jpg","medium","NaN","j","1","",""
+"","2581","survey-text","5","2.0.0","19634","pg9c1vrt9z9","","","","{""image_description"":""o""}","","","","","stimuli/18.jpg","easy","NaN","o","1","",""
+"","2896","survey-text","6","2.0.0","22534","pg9c1vrt9z9","","","","{""image_description"":""j""}","","","","","stimuli/90.jpg","medium","NaN","j","1","",""
+"","7113","survey-text","7","2.0.0","29650","pg9c1vrt9z9","","","","{""image_description"":""?""}","","","","","stimuli/138.jpg","hard","NaN","?","1","",""
+"","2496","survey-text","8","2.0.0","32150","pg9c1vrt9z9","","","","{""image_description"":""?""}","","","","","stimuli/42.jpg","easy","NaN","?","1","",""
+"","7399","survey-text","9","2.0.0","39551","pg9c1vrt9z9","","","","{""image_description"":""peppa pig""}","","","","","stimuli/146.jpg","hard","NaN","peppa pig","2","",""
+"","3429","survey-text","10","2.0.0","42984","pg9c1vrt9z9","","","","{""image_description"":""mountain""}","","","","","stimuli/34.jpg","easy","NaN","mountain","1","",""
+"","4697","survey-text","11","2.0.0","47683","pg9c1vrt9z9","","","","{""image_description"":""triangle""}","","","","","stimuli/2.jpg","easy","NaN","triangle","1","",""
+"","4864","survey-text","12","2.0.0","52550","pg9c1vrt9z9","","","","{""image_description"":""rock""}","","","","","stimuli/82.jpg","medium","NaN","rock","1","",""
+"","6047","survey-text","13","2.0.0","58600","pg9c1vrt9z9","","","","{""image_description"":""triangle""}","","","","","stimuli/26.jpg","easy","NaN","triangle","1","",""
+"","6647","survey-text","14","2.0.0","65249","pg9c1vrt9z9","","","","{""image_description"":""mount""}","","","","","stimuli/74.jpg","medium","NaN","mount","1","",""
+"","8580","survey-text","15","2.0.0","73833","pg9c1vrt9z9","","","","{""image_description"":""whale""}","","","","","stimuli/58.jpg","medium","NaN","whale","1","",""
+"","3697","survey-text","16","2.0.0","77533","pg9c1vrt9z9","","","","{""image_description"":""bat""}","","","","","stimuli/130.jpg","hard","NaN","bat","1","",""
+"","4331","survey-text","17","2.0.0","81866","pg9c1vrt9z9","","","","{""image_description"":""cat""}","","","","","stimuli/106.jpg","medium","NaN","cat","1","",""
+"","30914","survey-text","18","2.0.0","112782","pg9c1vrt9z9","","","","{""image_description"":""quadrilateral""}","","","","","stimuli/10.jpg","easy","NaN","quadrilateral","1","",""
+"","5514","survey-text","19","2.0.0","118299","pg9c1vrt9z9","","","","{""image_description"":""goast""}","","","","","stimuli/122.jpg","hard","NaN","goast","1","",""
+"","5514","survey-text","20","2.0.0","123815","pg9c1vrt9z9","","","","{""image_description"":""monster""}","","","","","stimuli/154.jpg","hard","NaN","monster","1","",""
+"","3598","survey-text","21","2.0.0","127416","pg9c1vrt9z9","","","","{""image_description"":""whale""}","","","","","stimuli/50.jpg","easy","NaN","whale","1","",""
+"","4115","survey-text","22","2.0.0","131533","pg9c1vrt9z9","","","","{""image_description"":""bird""}","","","","","stimuli/66.jpg","medium","NaN","bird","1","",""
+"","8730","survey-text","23","2.0.0","140265","pg9c1vrt9z9","","","","{""image_description"":""pokemon""}","","","","","stimuli/114.jpg","hard","NaN","pokemon","1","",""
+"","4064","survey-text","24","2.0.0","144332","pg9c1vrt9z9","","","","{""participant_major"":""CBN""}","","","","","","","","","","",""
+"","2348","survey-multi-choice","25","2.2.0","146682","pg9c1vrt9z9","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"

@@ -1,0 +1,52 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1541","fullscreen","0","null","2545","prr20aoqhqg","","","","","","","","","","","","","","",""
+"","10103","html-keyboard-response","1","2.0.0","12651","prr20aoqhqg","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>","Enter","","","","","","","","","","",""
+"","2662","survey-text","2","2.0.0","15326","prr20aoqhqg","","","","{""participant_id"":""goose""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","15669","prr20aoqhqg","","","","","false","[]","[]","[]","","","","","","",""
+"","160380","survey-text","4","2.0.0","176074","prr20aoqhqg","","","","{""image_description"":""looks like a hole in a piece of paper,\nhas a lot of jagged edges ""}","","","","","stimuli/89.jpg","medium","NaN","looks like a hole in a piece of paper,
+has a lot of jagged edges ","15","",""
+"","84246","survey-text","5","2.0.0","260344","prr20aoqhqg","","","","{""image_description"":""Looks like a shoulder piece from a set of armor. Has a very big triangle shape sticking out of the left half of a trapezoid base  ""}","","","","","stimuli/25.jpg","easy","NaN","Looks like a shoulder piece from a set of armor. Has a very big triangle shape sticking out of the left half of a trapezoid base  ","26","",""
+"","201810","survey-text","6","2.0.0","462173","prr20aoqhqg","","","","{""image_description"":""Looks like a combination of a 2 rhombuses, a rectangle, 2 trapezoids, and one triangle\nthe rhombus is on top, the trapezoid shares 80% of a side with the rhombus and has a rectangle sticking out of it on the left side.\nUnder the rhombus-trapezoid-rectangle complex, is another trapezoid that has a triangle sticking out of the right side and a rhombus on the left.""}","","","","","stimuli/105.jpg","medium","NaN","Looks like a combination of a 2 rhombuses, a rectangle, 2 trapezoids, and one triangle
+the rhombus is on top, the trapezoid shares 80% of a side with the rhombus and has a rectangle sticking out of it on the left side.
+Under the rhombus-trapezoid-rectangle complex, is another trapezoid that has a triangle sticking out of the right side and a rhombus on the left.","65","",""
+"","43484","survey-text","7","2.0.0","505674","prr20aoqhqg","","","","{""image_description"":""Looks like an animal. similar to a not-shaped origami moose. ""}","","","","","stimuli/97.jpg","medium","NaN","Looks like an animal. similar to a not-shaped origami moose. ","10","",""
+"","42299","survey-text","8","2.0.0","547990","prr20aoqhqg","","","","{""image_description"":""Looks like a pentagon with a triangle sticking out of the bottom right. ""}","","","","","stimuli/33.jpg","easy","NaN","Looks like a pentagon with a triangle sticking out of the bottom right. ","13","",""
+"","144850","survey-text","9","2.0.0","692862","prr20aoqhqg","","","","{""image_description"":""H shaped thing\nThe left side of the H looks like a floor plan of a building. A triangle on top of a square with a triangle cut out of the bottom. \nThe right side of the H has a rectangle on the top and a rhombus thingy on the bottom.\nThe -- connecting the two sticks of the H is a fat rectangle ""}","","","","","stimuli/121.jpg","hard","NaN","H shaped thing
+The left side of the H looks like a floor plan of a building. A triangle on top of a square with a triangle cut out of the bottom. 
+The right side of the H has a rectangle on the top and a rhombus thingy on the bottom.
+The -- connecting the two sticks of the H is a fat rectangle ","64","",""
+"","131461","survey-text","10","2.0.0","824338","prr20aoqhqg","","","","{""image_description"":""Think of an upisde down person whose left leg is exploded into a pool of blood. \nthe person's torso is like a trapezoid. their right arm is a square\nThe left arm is a trianle\nthe head is like a golf club\nthe right leg looks like a Roblox leg\nthe pool of blood is like 2 right angle triangles pointing to the left back to back""}","","","","","stimuli/145.jpg","hard","NaN","Think of an upisde down person whose left leg is exploded into a pool of blood. 
+the person's torso is like a trapezoid. their right arm is a square
+The left arm is a trianle
+the head is like a golf club
+the right leg looks like a Roblox leg
+the pool of blood is like 2 right angle triangles pointing to the left back to back","67","",""
+"","140469","survey-text","11","2.0.0","964820","prr20aoqhqg","","","","{""image_description"":""a right-angle triangle. The longer leg is pointed upwards. If you drew a right angle triangle longer leg along the horzon and then rotated it around 30 degrees down while holding down the left point, you would get the shape  ""}","","","","","stimuli/1.jpg","easy","NaN","a right-angle triangle. The longer leg is pointed upwards. If you drew a right angle triangle longer leg along the horzon and then rotated it around 30 degrees down while holding down the left point, you would get the shape  ","40","",""
+"","46871","survey-text","12","2.0.0","1011699","prr20aoqhqg","","","","{""image_description"":""looks like the head of a wrench\n""}","","","","","stimuli/57.jpg","medium","NaN","looks like the head of a wrench
+","7","",""
+"","82727","survey-text","13","2.0.0","1094443","prr20aoqhqg","","","","{""image_description"":""you get a lobster claw and then put a square on the bigger claw piece and put 2 triangles pointing the opposite direction of the claw opening on the bottom claw piece. ""}","","","","","stimuli/129.jpg","hard","NaN","you get a lobster claw and then put a square on the bigger claw piece and put 2 triangles pointing the opposite direction of the claw opening on the bottom claw piece. ","32","",""
+"","19433","survey-text","14","2.0.0","1113888","prr20aoqhqg","","","","{""image_description"":""pac man if he was square shaped and had a tail""}","","","","","stimuli/113.jpg","hard","NaN","pac man if he was square shaped and had a tail","11","",""
+"","44238","survey-text","15","2.0.0","1158138","prr20aoqhqg","","","","{""image_description"":""dinosaur footprint where the lower claw is connected to a trapezoid like shape""}","","","","","stimuli/65.jpg","medium","NaN","dinosaur footprint where the lower claw is connected to a trapezoid like shape","13","",""
+"","9739","survey-text","16","2.0.0","1167887","prr20aoqhqg","","","","{""image_description"":""a cleaver stuck in a trunk""}","","","","","stimuli/73.jpg","medium","NaN","a cleaver stuck in a trunk","6","",""
+"","52739","survey-text","17","2.0.0","1220641","prr20aoqhqg","","","","{""image_description"":""pi symbol, but it is wearing a party hat and has fat legs""}","","","","","stimuli/153.jpg","hard","NaN","pi symbol, but it is wearing a party hat and has fat legs","13","",""
+"","38995","survey-text","18","2.0.0","1259651","prr20aoqhqg","","","","{""image_description"":""a paper boat-shaped thing on top of a trapezoid and two rectangles. ""}","","","","","stimuli/81.jpg","medium","NaN","a paper boat-shaped thing on top of a trapezoid and two rectangles. ","12","",""
+"","13107","survey-text","19","2.0.0","1272769","prr20aoqhqg","","","","{""image_description"":""a comb with only two fat teeth""}","","","","","stimuli/41.jpg","easy","NaN","a comb with only two fat teeth","7","",""
+"","28779","survey-text","20","2.0.0","1301562","prr20aoqhqg","","","","{""image_description"":""An isosceles triangle where the bottom sticks out a little bit""}","","","","","stimuli/17.jpg","easy","NaN","An isosceles triangle where the bottom sticks out a little bit","11","",""
+"","45978","survey-text","21","2.0.0","1347548","prr20aoqhqg","","","","{""image_description"":""a rectangle and a square with very spiky bits\n""}","","","","","stimuli/137.jpg","hard","NaN","a rectangle and a square with very spiky bits
+","9","",""
+"","30957","survey-text","22","2.0.0","1378519","prr20aoqhqg","","","","{""image_description"":""an axe blade with a very short handle""}","","","","","stimuli/49.jpg","easy","NaN","an axe blade with a very short handle","8","",""
+"","4470","survey-text","23","2.0.0","1383001","prr20aoqhqg","","","","{""image_description"":""a trapezoid\n""}","","","","","stimuli/9.jpg","easy","NaN","a trapezoid
+","2","",""
+"","7934","survey-text","24","2.0.0","1390943","prr20aoqhqg","","","","{""participant_major"":""Cognitive and behavior neuroscience""}","","","","","","","","","","",""
+"","2196","survey-multi-choice","25","2.2.0","1393143","prr20aoqhqg","","","","{""participant_gender"":""Male""}","","","","","","","","","","[1]","[0]"

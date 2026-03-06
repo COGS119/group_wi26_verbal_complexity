@@ -1,0 +1,38 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","3987","fullscreen","0","null","4992","pkgdp9lotx5","","","","","","","","","","","","","","",""
+"","28027","html-keyboard-response","1","2.0.0","33021","pkgdp9lotx5","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","4102","survey-text","2","2.0.0","37128","pkgdp9lotx5","","","","{""participant_id"":""butterfly""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","37515","pkgdp9lotx5","","","","","false","[]","[]","[]","","","","","","",""
+"","11631","survey-text","4","2.0.0","49154","pkgdp9lotx5","","","","{""image_description"":""like a bat but abstract""}","","","","","stimuli/158.jpg","hard","NaN","like a bat but abstract","5","",""
+"","12049","survey-text","5","2.0.0","61206","pkgdp9lotx5","","","","{""image_description"":""kind of like pac man or a dinosaur jaw""}","","","","","stimuli/134.jpg","hard","NaN","kind of like pac man or a dinosaur jaw","9","",""
+"","6804","survey-text","6","2.0.0","68011","pkgdp9lotx5","","","","{""image_description"":""some badge""}","","","","","stimuli/54.jpg","medium","NaN","some badge","2","",""
+"","20359","survey-text","7","2.0.0","88372","pkgdp9lotx5","","","","{""image_description"":""isnt this like a parallelogram? ""}","","","","","stimuli/6.jpg","easy","NaN","isnt this like a parallelogram? ","5","",""
+"","17035","survey-text","8","2.0.0","105409","pkgdp9lotx5","","","","{""image_description"":""like a \""BAM\"" thing in a comic""}","","","","","stimuli/86.jpg","medium","NaN","like a ""BAM"" thing in a comic","7","",""
+"","5618","survey-text","9","2.0.0","111029","pkgdp9lotx5","","","","{""image_description"":""no idea""}","","","","","stimuli/126.jpg","hard","NaN","no idea","2","",""
+"","9652","survey-text","10","2.0.0","120683","pkgdp9lotx5","","","","{""image_description"":""like a b2 bomber airplane""}","","","","","stimuli/46.jpg","easy","NaN","like a b2 bomber airplane","5","",""
+"","7390","survey-text","11","2.0.0","128075","pkgdp9lotx5","","","","{""image_description"":""some odd bird""}","","","","","stimuli/142.jpg","hard","NaN","some odd bird","3","",""
+"","14748","survey-text","12","2.0.0","142824","pkgdp9lotx5","","","","{""image_description"":""more than half of a square""}","","","","","stimuli/38.jpg","easy","NaN","more than half of a square","6","",""
+"","17903","survey-text","13","2.0.0","160729","pkgdp9lotx5","","","","{""image_description"":""abstract plus sign but sharp""}","","","","","stimuli/94.jpg","medium","NaN","abstract plus sign but sharp","5","",""
+"","13861","survey-text","14","2.0.0","174591","pkgdp9lotx5","","","","{""image_description"":""cornered off square, not quite a pentagon""}","","","","","stimuli/14.jpg","easy","NaN","cornered off square, not quite a pentagon","7","",""
+"","7909","survey-text","15","2.0.0","182501","pkgdp9lotx5","","","","{""image_description"":""like a y""}","","","","","stimuli/70.jpg","medium","NaN","like a y","3","",""
+"","9013","survey-text","16","2.0.0","191516","pkgdp9lotx5","","","","{""image_description"":""reminds me of a shrimp""}","","","","","stimuli/150.jpg","hard","NaN","reminds me of a shrimp","5","",""
+"","5559","survey-text","17","2.0.0","197076","pkgdp9lotx5","","","","{""image_description"":""a 'c'""}","","","","","stimuli/62.jpg","medium","NaN","a 'c'","2","",""
+"","24188","survey-text","18","2.0.0","221266","pkgdp9lotx5","","","","{""image_description"":""kind of like a diamond, 7 sides though""}","","","","","stimuli/22.jpg","easy","NaN","kind of like a diamond, 7 sides though","8","",""
+"","10041","survey-text","19","2.0.0","231309","pkgdp9lotx5","","","","{""image_description"":""looks like a plug""}","","","","","stimuli/102.jpg","medium","NaN","looks like a plug","4","",""
+"","6998","survey-text","20","2.0.0","238308","pkgdp9lotx5","","","","{""image_description"":""no idea""}","","","","","stimuli/118.jpg","hard","NaN","no idea","2","",""
+"","11974","survey-text","21","2.0.0","250283","pkgdp9lotx5","","","","{""image_description"":""mix of squares and triangles""}","","","","","stimuli/110.jpg","hard","NaN","mix of squares and triangles","5","",""
+"","7575","survey-text","22","2.0.0","257859","pkgdp9lotx5","","","","{""image_description"":""a 'v'""}","","","","","stimuli/30.jpg","easy","NaN","a 'v'","2","",""
+"","20662","survey-text","23","2.0.0","278523","pkgdp9lotx5","","","","{""image_description"":""resembles a bird, its mostly 4 triangles""}","","","","","stimuli/78.jpg","medium","NaN","resembles a bird, its mostly 4 triangles","7","",""
+"","8347","survey-text","24","2.0.0","286872","pkgdp9lotx5","","","","{""participant_major"":""cognitive & behavioral neuroscience""}","","","","","","","","","","",""
+"","2681","survey-multi-choice","25","2.2.0","289555","pkgdp9lotx5","","","","{""participant_gender"":""Non-binary""}","","","","","","","","","","[2]","[0]"

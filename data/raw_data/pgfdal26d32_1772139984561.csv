@@ -1,0 +1,39 @@
+"success","rt","trial_type","trial_index","plugin_version","time_elapsed","random_id","participant","participant_gender","stimulus","response","timeout","failed_images","failed_audio","failed_video","figure","difficulty","response_time_seconds","text_response","word_count","response_index","question_order"
+"true","1268","fullscreen","0","null","2273","pgfdal26d32","","","","","","","","","","","","","","",""
+"","8401","html-keyboard-response","1","2.0.0","10677","pgfdal26d32","","","
+    <div>
+      <p>Welcome to our experiment!</p>
+      <p>In each trial, you will see a shape. Describe the shape as accurately as you can in the provided textbox.</p>
+      <p>Your description can be as long or as short as you’d like, from just a few words up to a whole paragraph if you feel that is necessary.</p>
+      <p></p>
+      <p>The next page will ask for participant ID.</p>
+      <p></p>
+      <p>After all the trials have been completed, the last page will ask for some demographic information.</p>
+      <p></p>
+      <p>Once you are ready to start, click any button.</p>
+    </div>"," ","","","","","","","","","","",""
+"","2429","survey-text","2","2.0.0","13111","pgfdal26d32","","","","{""participant_id"":""9252""}","","","","","","","","","","",""
+"true","","preload","3","2.0.0","13409","pgfdal26d32","","","","","false","[]","[]","[]","","","","","","",""
+"","5199","survey-text","4","2.0.0","18618","pgfdal26d32","","","","{""image_description"":""pointy""}","","","","","stimuli/127.jpg","hard","NaN","pointy","1","",""
+"","13713","survey-text","5","2.0.0","32333","pgfdal26d32","","","","{""image_description"":""flipped slanted house""}","","","","","stimuli/15.jpg","easy","NaN","flipped slanted house","3","",""
+"","13822","survey-text","6","2.0.0","46158","pgfdal26d32","","","","{""image_description"":"" squared leaf""}","","","","","stimuli/111.jpg","hard","NaN"," squared leaf","2","",""
+"","12840","survey-text","7","2.0.0","59000","pgfdal26d32","","","","{""image_description"":""squared a""}","","","","","stimuli/39.jpg","easy","NaN","squared a","2","",""
+"","12681","survey-text","8","2.0.0","71683","pgfdal26d32","","","","{""image_description"":""pointy legs ""}","","","","","stimuli/143.jpg","hard","NaN","pointy legs ","2","",""
+"","12495","survey-text","9","2.0.0","84179","pgfdal26d32","","","","{""image_description"":""every shape combined""}","","","","","stimuli/103.jpg","medium","NaN","every shape combined","3","",""
+"","8017","survey-text","10","2.0.0","92198","pgfdal26d32","","","","{""image_description"":""wannabe rectangle""}","","","","","stimuli/7.jpg","easy","NaN","wannabe rectangle","2","",""
+"","20397","survey-text","11","2.0.0","112595","pgfdal26d32","","","","{""image_description"":""pharaoh's crown but make it pointy""}","","","","","stimuli/79.jpg","medium","NaN","pharaoh's crown but make it pointy","6","",""
+"","17979","survey-text","12","2.0.0","130576","pgfdal26d32","","","","{""image_description"":""cat peeking through ""}","","","","","stimuli/95.jpg","medium","NaN","cat peeking through ","3","",""
+"","18696","survey-text","13","2.0.0","149275","pgfdal26d32","","","","{""image_description"":""stabbed half square""}","","","","","stimuli/31.jpg","easy","NaN","stabbed half square","3","",""
+"","29296","survey-text","14","2.0.0","178573","pgfdal26d32","","","","{""image_description"":""fox wearing a scarf blowing in the wind""}","","","","","stimuli/151.jpg","hard","NaN","fox wearing a scarf blowing in the wind","8","",""
+"","11864","survey-text","15","2.0.0","190439","pgfdal26d32","","","","{""image_description"":""squared beat with a bat""}","","","","","stimuli/23.jpg","easy","NaN","squared beat with a bat","5","",""
+"","46947","survey-text","16","2.0.0","237386","pgfdal26d32","","","","{""image_description"":""looks like washington state""}","","","","","stimuli/47.jpg","easy","NaN","looks like washington state","4","",""
+"","8481","survey-text","17","2.0.0","245869","pgfdal26d32","","","","{""image_description"":""phoenix rebirth""}","","","","","stimuli/159.jpg","hard","NaN","phoenix rebirth","2","",""
+"","10331","survey-text","18","2.0.0","256202","pgfdal26d32","","","","{""image_description"":""mordacai ""}","","","","","stimuli/119.jpg","hard","NaN","mordacai ","1","",""
+"","10197","survey-text","19","2.0.0","266401","pgfdal26d32","","","","{""image_description"":""squaredified crab""}","","","","","stimuli/63.jpg","medium","NaN","squaredified crab","2","",""
+"","29180","survey-text","20","2.0.0","295584","pgfdal26d32","","","","{""image_description"":""rectangle and triangle had a child""}","","","","","stimuli/87.jpg","medium","NaN","rectangle and triangle had a child","6","",""
+"","23280","survey-text","21","2.0.0","318866","pgfdal26d32","","","","{""image_description"":""mountiains but one is the black sheep""}","","","","","stimuli/55.jpg","medium","NaN","mountiains but one is the black sheep","7","",""
+"","53361","survey-text","22","2.0.0","372227","pgfdal26d32","","","","{""image_description"":""yzma from the emperor's new groove\n""}","","","","","stimuli/135.jpg","hard","NaN","yzma from the emperor's new groove
+","6","",""
+"","10114","survey-text","23","2.0.0","382343","pgfdal26d32","","","","{""image_description"":""flag in golf course""}","","","","","stimuli/71.jpg","medium","NaN","flag in golf course","4","",""
+"","10364","survey-text","24","2.0.0","392709","pgfdal26d32","","","","{""participant_major"":""neuroscience""}","","","","","","","","","","",""
+"","2047","survey-multi-choice","25","2.2.0","394758","pgfdal26d32","","","","{""participant_gender"":""Female""}","","","","","","","","","","[0]","[0]"
